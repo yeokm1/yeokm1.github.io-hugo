@@ -2,6 +2,7 @@
 title: "Do GRCs increase the risk of a freak election?"
 date: 2020-08-04
 categories: ["政治", "新加玻"]
+images: ["/2020/08/do-grcs-increase-the-risk-of-a-freak-election/images/post-preview.png"]
 ---
 
 With the GE2020 now over, we all know the PAP has been returned to power safely with a more than comfortable supermajority margin. Prior to polling day, PAP candidates raised the possibility of PAP losing their majority in a freak election and the alternative side stating the opposite scenario.
@@ -171,5 +172,3 @@ It can be seen in this example country, the larger the GRCs employed, the higher
 Keeping in consideration the official reasons of having GRCs which is to ensure minority representation in Parliament, we should place equal consideration on the implementation of the GRC system and weigh the tradeoffs of the possible repercussions.
 
 If you are curious, the animated charts used were created using [Chart.js](https://www.chartjs.org/)
-
-{{< imgdisplay src="images/post-preview.png" width="1" >}}
