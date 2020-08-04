@@ -27,7 +27,7 @@ The purpose of this post is however not to investigate the official reasons. It'
 
 There is no official definition I can find on this term "Freak Election".
 
-Therefore I shall use the context and theory put forward by Cherian George (CG) in his book [Singapore, Incomplete: Reflections on a First World nation’s arrested political development (2017)](2020/07/book-review-air-conditioned-nation-series-singapore-incomplete-by-cherian-george-part-2-of-3/).
+Therefore I shall use the context and theory put forward by Cherian George (CG) in his book [Singapore, Incomplete: Reflections on a First World nation’s arrested political development (2017)](/2020/07/book-review-air-conditioned-nation-series-singapore-incomplete-by-cherian-george-part-2-of-3/).
 
 >**To be worthy of the name, a freak result is one that the majority of voters didn’t want**. This outcome is possible because voting is susceptible to coordination failures. People vote based partly on imperfect knowledge of how others will use their ballot. Those expectations may not be accurate.
 
