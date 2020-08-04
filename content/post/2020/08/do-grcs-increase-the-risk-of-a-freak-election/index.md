@@ -9,7 +9,7 @@ With the GE2020 now over, we know the PAP has been returned to power safely with
 
 I googled around but never actually found any article that examines the risk of a Freak Election with respect to the Group Representation Constituency (GRC) system. Could the GRC system possibly aggravate the risk of this PAP-wipeout freak election scenario against just having all Single Member Constituencies (SMC)?
 
-**Due to the graphical density of this post, I suggest that you view this post on a PC or tablet.**
+**Due to the graphical density of this post, this post might not display properly on mobile browsers. I suggest that you view this on a PC or tablet.**
 
 <!--more-->
 
@@ -103,7 +103,10 @@ Now let's try see how the vote shifts affects an all-SMC scenario.
 
 {{< smc-grc-chart-scenario_1 >}}
 
-Press the "Start Simulation" button to observe how the incumbent slowly loses its seats to the alternative. "Reset button" sets the situation back to the original state. "Randomise Data" randomises the initial vote share of the Alternative Party between 12.5% and 49.9%. The slider allows manual adjustment of the vote swing in 0.1% steps.
+* "Start Simulation" to observe how the incumbent slowly loses its seats to the alternative. 
+* "Reset button" sets the situation back to the original state. 
+* "Randomise Data" randomises the initial vote share of the Alternative Party between 12.5% and 49.9%. Please "Reset" before using this. 
+* The slider allows manual adjustment of the vote swing in 0.1% steps.
 
 As the voting trends shift, we observe alternative candidates are being elected in incrementally in areas with relatively stronger pockets of alternative support.
 
