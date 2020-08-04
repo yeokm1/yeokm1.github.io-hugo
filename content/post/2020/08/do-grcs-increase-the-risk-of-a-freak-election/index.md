@@ -5,7 +5,7 @@ categories: ["politics", "singapore"]
 images: ["/2020/08/do-grcs-increase-the-risk-of-a-freak-election/images/post-preview.png"]
 ---
 
-With the GE2020 now over, we all know the PAP has been returned to power safely with a more than comfortable supermajority margin. Prior to polling day, PAP candidates raised the possibility of PAP losing their majority in a freak election and the alternative side stating the opposite scenario.
+With the GE2020 now over, we know the PAP has been returned to power safely with a more than comfortable supermajority margin. Prior to polling day, PAP candidates raised the possibility of PAP losing their majority in a freak election and the alternative side stating the opposite scenario.
 
 I googled around but never actually found any article that examines the risk of a Freak Election with respect to the Group Representation Constituency (GRC) system. Could the GRC system possibly aggravate the risk of this PAP-wipeout freak election scenario against just having all Single Member Constituencies (SMC)?
 
@@ -36,7 +36,7 @@ Therefore I shall use the context and theory put forward by Cherian George (CG) 
 
 I don't see a feasible way to get evidence of the thought process of voters as we do not have opinion polls. So I shall utilise CG's theory in this post.
 
-One point not mentioned in CG's theory is the impact of the Freak Election which is one of the factors of risk, therefore I shall consider that as well.
+CG does not discuss the impact of the Freak Election which is one of the factors of risk. Nevertheless, I shall consider that as well.
 
 ## What is risk and how to measure it?
 
@@ -171,4 +171,4 @@ It can be seen in this example country, the larger the GRCs employed, the higher
 
 Keeping in consideration the official reasons of having GRCs which is to ensure minority representation in Parliament, we should place equal consideration on the implementation of the GRC system and weigh the tradeoffs of the possible repercussions.
 
-If you are curious, the animated charts used were created using [Chart.js](https://www.chartjs.org/)
+If you are curious, the animated charts used were created using [Chart.js](https://www.chartjs.org/).
