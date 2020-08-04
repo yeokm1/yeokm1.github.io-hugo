@@ -14,7 +14,7 @@ I googled around but never actually found any article that examines the risk of 
 
 ## What is a GRC?
 
-According to the [Wikipedia article on GRCS](https://en.wikipedia.org/wiki/Group_representation_constituency):
+According to the [Wikipedia article on GRCs](https://en.wikipedia.org/wiki/Group_representation_constituency):
 
 >A group representation constituency (GRC) is a type of electoral division or constituency in Singapore in which teams of candidates, instead of individual candidates, compete to be elected into Parliament as the Members of Parliament (MPs) for the constituency... at least one of the MPs in a GRC must be a member of the Malay, Indian or another minority community of Singapore.
 >
@@ -33,7 +33,7 @@ Therefore I shall use the context and theory put forward by Cherian George (CG) 
 
 >In either case, if you and others like you assess the mood wrongly, you might end up using your vote in a way that goes against your own wishes. You all overestimate the PAP’s strength, vote opposition, and contribute to ousting the PAP—to your horror. That’s a freak election. It could also work the other way: you overestimate the opposition tide, give your vote to the incumbent party, and end up with a decimated opposition, which isn’t what you wanted.
 
-I don't see a feasible way to get evidence of the thought process of voters as we do not have opinion polls. So I shall assumes CG's theory in this post.
+I don't see a feasible way to get evidence of the thought process of voters as we do not have opinion polls. So I shall utilise CG's theory in this post.
 
 One point not mentioned in CG's theory is the impact of the Freak Election which is one of the factors of risk, therefore I shall consider that as well.
 
