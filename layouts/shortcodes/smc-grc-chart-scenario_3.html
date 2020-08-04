@@ -1,0 +1,58 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
+
+<div>
+    <div style="width: 50%; float: left">
+        <canvas id="scenario_3-bar" width=50 height=45></canvas>
+    </div>
+
+    <div style="margin-left: 55%; width: 40%;">
+        <canvas id="scenario_3-pie" width=50 height=50></canvas>
+    </div>
+
+    <div style="margin-top: 7%; line-height: 40%">
+        <table id="scenario_3-table">
+            <tr>
+                <th></th>
+                <th>Incumbent</th>
+                <th>Alternative</th>
+            </tr>
+            <tr>
+                <td>GRC A</td>
+                <td>1</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>GRC B</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>GRC C</td>
+                <td>1</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Seat Share</td>
+                <td>1</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Popular Vote</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+        </table>
+    </div>
+
+    <input id="scenario_3-slider" type="range" min="0" max="90" value="0" step="0.1" class="slider">
+
+
+    <button id="scenario_3-reset-button">Reset</button>
+    <button id="scenario_3-randomise-button">Randomise Data</button>
+    <button id="scenario_3-simulation-button">Start Simulation</button>
+
+</div>
+
+<script src="scenario_3.js"></script>

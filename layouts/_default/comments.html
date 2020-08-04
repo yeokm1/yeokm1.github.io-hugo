@@ -1,0 +1,16 @@
+{{ if ne .Site.DisqusShortname "" }}
+    <article class="post">
+        {{ template "_internal/disqus.html" . }}
+    </article>
+
+{{/* Backwards compatibility for deprecated parameter ".Site.Params.staticman.staticman" */}}
+{{ else if or .Site.Params.staticman.enabled .Site.Params.staticman.staticman }}
+    <article class="post">
+      {{ .Render "staticman" }}
+    </article>
+{{ end }}
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
+<div class="fb-comments" data-href="{{ .Permalink }}" data-width="100%" data-numposts="5"></div>
+

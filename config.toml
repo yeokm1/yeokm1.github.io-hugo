@@ -1,0 +1,299 @@
+baseurl                 = "http://yeokhengmeng.com"
+DefaultContentLanguage  = "en"
+title                   = "YKM's Corner on the Web"
+theme                   = "hugo-future-imperfect-slim"
+preserveTaxonomyNames   = true
+paginate                = 10
+disqusShortname         = "yeokhengmeng"
+googleAnalytics         = "UA-50169449-1"
+pluralizeListTitles     = false
+disableLanguages        = [""]
+
+pygmentsCodeFences = "true"
+pygmentsStyle = "rtt"
+
+[permalinks]
+    post = "/:year/:month/:title/"
+
+[params]
+  # Add additional section names to mainSections to include posts from
+  # those sections on the homepage.
+  enableCDN             = false
+
+  # Loads CSS and JavaScript files. The variable is an array so that you can load
+  # multiple/additional files if necessary. The standard theme files can be loaded
+  # by adding the value, "default". Default includes the add-on.css and and-on.js.
+  # Example: ["default", "/path/to/file"]
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  # Sets options for highlight.js
+  highlightjs           = true
+  highlightjsTheme      = "vs2015"
+  highlightjsLang       = ["html", "css", "js", "toml"]
+  # Sets where "View More Posts" links to
+  viewMorePostsLink     = "/post/"
+  # Activate Estimated Reading Times, which appear in the post headers
+  readingTime           = true
+  # Sets which Social Share links appear in posts.
+  # Options are twitter, facebook, reddit, linkedin, pinterest, email
+  #socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+
+  [params.meta]
+    # Sets the meta tag description
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    # Sets the meta tag author
+    author              = "HTML5UP and Hugo"
+    # If you would like to add more comprehensive favicon support passed root
+    # directory favicon.ico, utlize this funtion. It is recommened to use
+    # https://realfavicongenerator.net to generate your icons as that is the basis
+    # for the theme's naming.
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+
+  [params.header]
+    # Sets the navbarTitle that appears in the top left of the navigation bar
+    navbarTitle         = "YKM's Corner on the Web"
+    # Sets navbarTitle to match the section of the website
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = false
+    languageMenu        = true
+
+  # These are optional params related to the sidebar. They are recommended, but not
+  # required for proper functionality. HTML is supported within the params.
+  [params.intro]
+    header                = "Yeo Kheng Meng"
+    paragraph             = "Maker, Coder, Private Pilot, Retrocomputing Enthusiast"
+    rssIntro              = true
+    socialIntro           = true
+    # You may not want to display a long intro above content in the
+    # single column layout used on smaller screens.
+    hideWhenSingleColumn  = true
+    # But you may want to always display the intro on the homepage.
+    alwaysOnHomepage      = false
+
+    # This appears at the top of the sidebar above params.intro.header.
+    # A width of less than 100px is recommended from a design perspective.
+    [params.intro.pic]
+      src                 = "/img/main/logo.jpg"
+      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+      shape               = "circle"
+      width               = ""
+      alt                 = "Kheng Meng profile pic"
+
+  [params.sidebar]
+    about               = ""
+    # Sets the number of recent posts to show in the sidebar. The default value is 5.
+    postAmount          = 5
+    # set to show or to hide categories in the sidebar
+    categories          = true
+    # Sets Categories to sort by number of posts instead of alphabetical
+    categoriesByCount   = true
+
+  [params.footer]
+    # Sets RSS icons to appear on the sidebar with the social media buttons
+    rssFooter           = true
+    # Sets Social Media icons to appear on the sidebar
+    socialFooter        = false
+
+  # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+  # due to its ease of use. Feel free to check out both and decide which you would
+  # prefer to use. See staticman.yml for additional settings.
+  [params.staticman]
+    # If using GitHub, go to https://github.com/apps/staticman-net
+    # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
+    enabled             = false
+    api                 = ""  # without trailing slash, defaults to "staticman3.herokuapp.com"
+    gitProvider         = "github"  # either "github" or "gitlab"
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      # Both keys must be present to enable recaptcha
+      siteKey           = "" # Site Key
+      encryptedKey      = ""
+
+[menu]
+  # Sets the menu items in the navigation bar
+  # Identifier prepends a Font Awesome icon to the menu item
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "Aviation"
+    identifier        = "aviation"
+    url               = "/categories/aviation"
+    pre               = "<i class='fas fa-plane'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Retrocomputing"
+    identifier        = "retrocomputing"
+    url               = "/categories/retrocomputing"
+    pre               = "<i class='fas fa-save'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Categories"
+    identifier        = "categories"
+    url               = "/categories/"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Favourite Quotes"
+    identifier        = "quotes"
+    url               = "/favourite-quotes/"
+    #pre               = "<i class='far fa-quote-left'></i>"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "/about-me/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 6
+
+[Languages]
+  # Each language has its own menu.
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+  [Languages.zh]
+    LanguageCode        = "zh-sg"
+    LanguageName        = "简体中文"
+    title               = "庆铭网角"
+    weight              = 2
+
+  [Languages.zh.params.header]
+    # Sets the navbarTitle that appears in the top left of the navigation bar
+    navbarTitle         = "庆铭网角"
+    # Sets navbarTitle to match the section of the website
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = false
+    languageMenu        = true
+    
+  [Languages.zh.params.intro]
+    header                = "杨庆铭"
+    paragraph             = "制作者，程序员，私人飞行员, 电脑历史爱好者"
+    rssIntro              = true
+    socialIntro           = true
+    # You may not want to display a long intro above content in the
+    # single column layout used on smaller screens.
+    hideWhenSingleColumn  = true
+    # But you may want to always display the intro on the homepage.
+    alwaysOnHomepage      = false
+
+    # This appears at the top of the sidebar above params.intro.header.
+    # A width of less than 100px is recommended from a design perspective.
+    [Languages.zh.params.intro.pic]
+      src                 = "/img/main/logo.jpg"
+      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+      shape               = "circle"
+      width               = ""
+      alt                 = "庆铭头像照片"
+
+   [[Languages.zh.menu.main]]
+      name              = "主页"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+   [[Languages.zh.menu.main]]
+      name              = "飞行"
+      identifier        = "aviation"
+      url               = "/categories/飞行"
+      pre               = "<i class='fas fa-plane'></i>"
+      weight            = 2
+
+   [[Languages.zh.menu.main]]
+      name              = "电脑历史"
+      identifier        = "retrocomputing"
+      url               = "/categories/电脑历史"
+      pre               = "<i class='fas fa-save'></i>"
+      weight            = 3
+
+   [[Languages.zh.menu.main]]
+      name              = "类别"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 4
+
+   [[Languages.zh.menu.main]]
+      name              = "喜爱报价"
+      identifier        = "quotes"
+      url               = "/favourite-quotes/"
+      #pre              = "<i class='far fa-quote-left'></i>"
+      weight            = 5
+
+  [[Languages.zh.menu.main]]
+    name              = "关于我"
+    identifier        = "about"
+    url               = "/about-me/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 6
+
+
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
+[social]
+  # Coding Communities
+  twitter               = "yeokm1"
+  facebook              = "yeokhengmeng"
+  github                = "yeokm1"
+  #gitlab                = ""
+  #stackoverflow         = "" # User Number
+  #bitbucket             = ""
+  jsfiddle              = ""
+  codepen               = ""
+  # Visual Art Communities
+  deviantart            = ""
+  #flickr                = ""
+  behance               = ""
+  dribbble              = ""
+  # Publishing Communities
+  #wordpress             = ""
+  # Professional/Business Oriented Communities
+  linkedin              = "yeokhengmeng"
+  #linkedin_company      = ""
+  foursquare            = ""
+  xing                  = ""
+  slideshare            = ""
+  # Social Networks
+  googleplus            = ""
+  reddit                = ""
+  quora                 = ""
+  youtube               = "yeokm1"
+  vimeo                 = ""
+  whatsapp              = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat              = ""
+    qq                  = "" # User ID Number
+  instagram             = "yeokm1"
+  tumblr                = ""
+  skype                 = ""
+  snapchat              = ""
+  pinterest             = ""
+  telegram              = "yeokm1"
+  medium                = ""
+  vine                  = ""
+  googlescholar         = ""
+  orcid                 = ""
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
+  # Email
+ # email                 = "yeokm1[at]gmail[dot]com"
