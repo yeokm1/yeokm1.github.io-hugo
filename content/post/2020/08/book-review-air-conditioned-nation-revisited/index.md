@@ -2,11 +2,10 @@
 title: "Book Review: Air-conditioned Nation Revisited by Cherian George (Part 3 of 3)"
 date: 2020-08-01
 categories: ["politics", "singapore", "book-reviews"]
+images: ["/2020/08/book-review-air-conditioned-nation-revisited-by-cherian-george-part-3-of-3/images/aircon-series.jpg"]
 ---
 
 This is the last of the 3-part book-review series on the Air-conditioned Nation series of books written by the academic Cherian George (CG).
-
-{{< imgdisplay src="images/aircon-series.jpg" width="650" >}}
 
 * [Singapore: The Air-conditioned Nation Essays on the politics of comfort and control (2000)](/2020/07/book-review-air-conditioned-nation-series-by-cherian-george-part-1-of-3/)
 * [Singapore, Incomplete: Reflections on a First World nation’s arrested political development (2017)](/2020/07/book-review-air-conditioned-nation-series-singapore-incomplete-by-cherian-george-part-2-of-3/)

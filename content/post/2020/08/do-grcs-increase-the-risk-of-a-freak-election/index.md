@@ -174,4 +174,4 @@ It can be seen in this example country, the larger the GRCs employed, the higher
 
 Keeping in consideration the official reasons of having GRCs which is to ensure minority representation in Parliament, we should place equal consideration on the implementation of the GRC system and weigh the tradeoffs of the possible repercussions.
 
-If you are curious, the animated charts used were created using [Chart.js](https://www.chartjs.org/). Many thanks to my friend [Hui Jing](https://chenhuijing.com/) for helping me to debug my animated charts too.
+If you are curious, the animated charts used were created using [Chart.js](https://www.chartjs.org/). Many thanks to my talented web frontend friend [Hui Jing](https://chenhuijing.com/) for helping me to debug my animated charts too!

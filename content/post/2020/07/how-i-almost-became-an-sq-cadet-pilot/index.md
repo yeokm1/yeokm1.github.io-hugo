@@ -2,6 +2,7 @@
 title: How I almost became an SQ cadet pilot?
 date: 2020-07-05
 categories: ["aviation", "personal"]
+images: ["/2020/07/how-i-almost-became-an-sq-cadet-pilot/images/solo-flight-in-sg.jpg"]
 ---
 
 The Singapore Airlines (SIA) cadet pilot interview process is reputed to be one of the most unique and grueling interviews in Singapore. The interview success rate is rumoured to be as low as 6% depending on your source.

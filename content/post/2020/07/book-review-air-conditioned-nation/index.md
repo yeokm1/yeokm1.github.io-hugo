@@ -2,13 +2,12 @@
 title: "Book Review: Air-conditioned Nation series by Cherian George (Part 1 of 3)"
 date: 2020-07-20
 categories: ["politics", "singapore", "book-reviews"]
+images: ["/2020/07/book-review-air-conditioned-nation-series-by-cherian-george-part-1-of-3/images/aircon-series.jpg"]
 ---
 
 I have heard of this term "air-conditioned nation" for more than a decade but I never actually read the book where this term originated from. Now, I finally did.
 
 The "Singapore: The Air Conditioned Nation" book was initially published in 2000 by the academic Cherian George (CG). Over the span of 20 years, he published 3 books.
-
-{{< imgdisplay src="images/aircon-series.jpg" width="650" >}}
 
 * [Singapore: The Air-conditioned Nation Essays on the politics of comfort and control (2000)](/2020/07/book-review-air-conditioned-nation-series-by-cherian-george-part-1-of-3/)
 * [Singapore, Incomplete: Reflections on a First World nation’s arrested political development (2017)](/2020/07/book-review-air-conditioned-nation-series-singapore-incomplete-by-cherian-george-part-2-of-3/)

@@ -2,6 +2,7 @@
 title: "Why all Singaporean voters should support the ruling PAP?"
 date: "2020-07-02"
 categories: ["politics", "singapore"]
+images: ["2020/07/why-all-singaporean-voters-should-support-the-ruling-pap/images/party_logos.jpg"]
 ---
 
 The online and social media discourse is anecdotally dominated by anti-establishment voices. We all know what goes on in cyberspace is not reflective of the voting outcomes due to the bubble and echo chamber many of us engage in.
@@ -13,8 +14,6 @@ Baring a small number of 3-corner fights, most voters will have a choice between
 Hence I shall structure this post in a way to appeal to each category of voters on why they should not vote for the specific opposition party that chose to stand in their district. After that I shall move on to the general national issues and PAP's plus points.
 
 Only the SDP, PSP and WP will be mentioned as frankly, I don't think the others have a chance. I may only mention in brief the policies of the opposition parties when relevant. After all, there is no hope they will get enacted other than nudging the PAP's position slightly to the left.
-
-{{< imgdisplay src="images/party_logos.jpg" width="600" >}}
 
 <!--more-->
 
