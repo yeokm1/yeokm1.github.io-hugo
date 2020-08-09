@@ -58,7 +58,8 @@ scenario_3 = function () {
                         display: true,
                         text: barChartTitle
                     },
-                    response: true,
+                    responsive: true,
+                    maintainAspectRatio: false,
                     scales: {
                         xAxes: [{
                             stacked: true,
@@ -117,6 +118,7 @@ scenario_3 = function () {
                 data: piedata,
                 options: {
                     responsive: true,
+                    maintainAspectRatio: false,
                     title: {
                         display: true,
                         text: 'Parliamentary Seats Obtained'
