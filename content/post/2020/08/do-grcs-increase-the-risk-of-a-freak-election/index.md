@@ -68,7 +68,7 @@ The smaller the % shift to change on a per seat basis, the more precise a voting
 
 The lowest likelihood scenario is intuitively a political system that uses a proportional representation as the voting pattern will exactly determine the seat allocation hence there is less variability and surprise. However, Singapore uses the first-past-the-post (FPTP) system so this situation does not hold.
 
-**The greater the uncertainty of how one's vote can translate to the actual result, the greater likelihood a freak result may happen.**
+**The greater the uncertainty of how one's vote can translate to the desired result, the greater likelihood a freak result may happen.**
 
 ## Rules of the game
 
@@ -120,7 +120,7 @@ Risk of all SMCs = 3.33 * 2 = 6.66 units.
 
 ### 2. 3-member GRCs
 
-Now we bring GRCs onto the table. For this purpose of this scenario, I'll use 3-member GRCs in the following grouping:
+Now we bring GRCs onto the table. For the purpose of this scenario, I'll use 3-member GRCs in the following grouping:
 
 * GRC A: SMC1, SMC2, SMC3
 * GRC B: SMC4, SMC5, SMC6
