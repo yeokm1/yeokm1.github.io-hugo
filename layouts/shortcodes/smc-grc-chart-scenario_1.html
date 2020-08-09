@@ -2,16 +2,35 @@
 <script
     src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
+    <style>
+        .chart-container {
+          position: relative;
+          min-height: 20em;
+        }
+      
+        @media screen and (min-width: 640px) {
+          .charts {
+            display: flex;
+          }
+      
+          .chart-container {
+            width: 50%;
+          }
+        }
+      </style>
+
+
 <div>
-    <div style="width: 50%; float: left">
-        <canvas id="scenario_1-bar" width=50 height=45></canvas>
-    </div>
+    <div class="charts">
+        <div class="chart-container">
+          <canvas id="scenario_1-bar"></canvas>
+        </div>
+    
+        <div class="chart-container">
+          <canvas id="scenario_1-pie" class="chart-pie"></canvas>
+        </div>
+      </div>
 
-    <div style="margin-left: 55%; width: 40%;">
-        <canvas id="scenario_1-pie" width=50 height=50></canvas>
-    </div>
-
-    <div style="margin-top: 7%; line-height: 40%">
         <table id="scenario_1-table">
             <tr>
                 <th></th>
@@ -29,7 +48,7 @@
                 <td>4</td>
             </tr>
         </table>
-    </div>
+
 
     <input id="scenario_1-slider" type="range" min="0" max="90" value="0" step="0.1" class="slider">
 
