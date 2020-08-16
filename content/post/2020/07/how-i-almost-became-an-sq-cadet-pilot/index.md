@@ -158,8 +158,8 @@ It's partly correct to say the reason of me earning my PPL was to give me the be
 
 This challenging SIA interview process has actually made me learn more about myself, my limits and reevaluate my personal goals in life. Even if it wasn't for the airline job, I have gained plenty through learning how to fly. No words can describe the feeling when you are in command of an aircraft in the sky.
 
-{{< imgdisplay src="images/solo-flight-in-sg.jpg" width="600" >}}
+{{< youtube C36h5KmslkQ >}}
 
-My solo flight at 10000 feet in SG. The highest possible altitude allowed in this local airspace.
+Full length video of my solo flight to 10000 feet in SG. The highest possible altitude allowed in this local airspace. Key timestamps are in the video description.
 
 I'll still keep my flying license active through GA and that is enough for me. Doing tech in my job which I also have a passion in and flying outside of my job will work just as well.
