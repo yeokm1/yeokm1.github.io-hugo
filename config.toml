@@ -218,9 +218,9 @@ pygmentsStyle = "rtt"
       weight            = 2
 
    [[Languages.zh.menu.main]]
-      name              = "电脑历史"
+      name              = "复古电脑"
       identifier        = "retrocomputing"
-      url               = "/categories/电脑历史"
+      url               = "/categories/复古电脑"
       pre               = "<i class='fas fa-save'></i>"
       weight            = 3
 
