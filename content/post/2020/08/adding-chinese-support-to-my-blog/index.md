@@ -9,7 +9,7 @@ I've been working in a Chinese tech company for some months now. I realised I ne
 
 The only way to improve is to use it more often but technical Chinese is rarely utilised and understood outside the working environment of a Chinese tech company in Singapore. Therefore there are limited opportunities to improve in this area.
 
-Since I write on quite a lot of technical stuff, I thought one way to improve my usage of technical Chinese is by writing bilingual blog posts. To do that, I'll first have to adjust my blog to have multilingual support。
+Since I write on quite a lot of technical stuff, I thought one way to improve my usage of technical Chinese is by writing bilingual blog posts. To do that, I'll first have to adjust my blog to have multilingual support.
 
 (Check out the Chinese version of this post [here](/zh/2020/08/添加中文支持/).)
 
