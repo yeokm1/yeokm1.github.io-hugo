@@ -68,7 +68,7 @@ DefaultContentLanguage  = "en"
 ...
 
    [[Languages.zh.menu.main]]
-      name              = "喜爱报价"
+      name              = "格言"
       identifier        = "quotes"
       url               = "/favourite-quotes/"
 ...

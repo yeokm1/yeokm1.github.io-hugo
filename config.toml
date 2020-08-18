@@ -232,7 +232,7 @@ pygmentsStyle = "rtt"
       weight            = 4
 
    [[Languages.zh.menu.main]]
-      name              = "喜爱报价"
+      name              = "格言"
       identifier        = "quotes"
       url               = "/favourite-quotes/"
       #pre              = "<i class='far fa-quote-left'></i>"
