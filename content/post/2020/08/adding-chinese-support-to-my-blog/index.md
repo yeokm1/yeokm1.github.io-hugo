@@ -23,7 +23,7 @@ Hugo sites including mine have a `config.toml` that specifies key site informati
 
 This `config.toml` also includes theme-specific configuration that may differ heavily among different themes. The theme I'm using is [hugo-future-imperfect-slim](https://themes.gohugo.io/hugo-future-imperfect-slim/).
 
-It's theme-specific configuration documentation can be found [here](https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml)
+Its theme-specific configuration documentation can be found [here](https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml).
 
 Below is a reduced version of my `config.toml`.
 
@@ -31,7 +31,6 @@ Below is a reduced version of my `config.toml`.
 DefaultContentLanguage  = "en"
 
 [Languages.zh.params.header]
-    # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "庆铭网角"
 ...
     
@@ -78,6 +77,17 @@ DefaultContentLanguage  = "en"
     identifier        = "about"
     url               = "/about-me/"
 ...
+[Languages]
+  # Each language has its own menu.
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+  [Languages.zh]
+    LanguageCode        = "zh-sg"
+    LanguageName        = "简体中文"
+    title               = "庆铭网角"
+    weight              = 2
 ```
 
 I have to provide the Chinese translation for every menu option.

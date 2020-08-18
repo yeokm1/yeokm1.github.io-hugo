@@ -29,7 +29,6 @@ images: ["/zh/2020/08/添加中文支持/images/title-post-capture.png"]
 DefaultContentLanguage  = "en"
 
 [Languages.zh.params.header]
-    # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "庆铭网角"
 ...
     
@@ -76,6 +75,17 @@ DefaultContentLanguage  = "en"
     identifier        = "about"
     url               = "/about-me/"
 ...
+[Languages]
+  # Each language has its own menu.
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+  [Languages.zh]
+    LanguageCode        = "zh-sg"
+    LanguageName        = "简体中文"
+    title               = "庆铭网角"
+    weight              = 2 
 ```
 
 每个选单必须提供中文翻译。
