@@ -5,15 +5,17 @@ categories: ["admin"]
 images: ["/2020/08/adding-chinese-support-to-my-blog/images/title-post-capture.png"]
 ---
 
-I've been working in a Chinese tech company for some months now. I realised I needed improve my command of technical Chinese rather than taking the easy way out of using the English terms when communicating with my Chinese colleagues.
+I've been working in a Chinese tech company for some months now. I realised I needed to improve my command of technical Chinese rather than taking the easy way out of using the English terms when communicating with my Chinese colleagues.
 
 The only way to improve is to use it more often but technical Chinese is rarely utilised and understood outside the working environment of a Chinese tech company in Singapore. Therefore there are limited opportunities to improve in this area.
 
 Since I write on quite a lot of technical stuff, I thought one way to improve my usage of technical Chinese is by writing bilingual blog posts. To do that, I'll first have to adjust my blog to have multilingual support。
 
+(Check out the Chinese version of this post [here](/zh/2020/08/添加中文支持/).)
+
 <!--more-->
 
-My blog uses the Hugo static site generator so the first step is to head to [Hugo's web site](https://gohugo.io/content-management/multilingualhe/) to read up on how I should proceed.
+My blog uses the Hugo static site generator so the first step is to head to [Hugo's web site](https://gohugo.io/content-management/multilingual/) to read up on how I should proceed.
 
 ## 1. Adjust site configuration
 
@@ -35,7 +37,7 @@ DefaultContentLanguage  = "en"
     
   [Languages.zh.params.intro]
     header                = "杨庆铭"
-    paragraph             = "制作者，程序员，私人飞行员, 电脑历史爱好者"
+    paragraph             = "制作者，程序员，私人飞行员, 复古电脑爱好者"
 ...
 
     [Languages.zh.params.intro.pic]
@@ -125,7 +127,7 @@ For a site freshly added with multilingual support, you'll see something like th
 
 {{< imgdisplay src="images/fresh-chinese-support-no-data.png" width="500" >}}
 
-It's empty because all the existing posts are not multilingual. So we have to add add the content to the Chinese version of the site
+It's empty because all the existing posts are not multilingual. So we have to add content to the Chinese version of the site.
 
 ### a. Duplicating content filenames to Chinese
 
@@ -138,7 +140,7 @@ To have the English posts appear under the Chinese language setting, we use the 
 ```bash
 find . -name index.zh.md | xargs -I % sh -c "sed -i 's/\"Singapore\"/\"新加玻\"/g' %"
 ```
-After that, we have to change the Hugo Front Matter of each site `categories: ["Singapore"]` -> `categories: ["新加玻"]`. I have to repeat this for every single category I use.
+After that, we have to change the Hugo Front Matter of each page `categories: ["Singapore"]` -> `categories: ["新加玻"]`. I have to repeat this for every single category I use.
 
 In the end, I reverted the changes as I realised Hugo actually creates another set of images for each translated post. This causes the size of my site to bloat so much it busted the [1GB Github pages limit](https://docs.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations).
 
@@ -173,4 +175,4 @@ Therefore the Chinese version is not a direct automated translation. You can use
 
 I hope you find this interesting!
 
-Checkout the Chinese version of this post [here](/zh/2020/08/添加中文支持/).
+Check out the Chinese version of this post [here](/zh/2020/08/添加中文支持/).

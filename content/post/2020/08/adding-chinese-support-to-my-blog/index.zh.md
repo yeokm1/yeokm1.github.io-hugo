@@ -11,6 +11,8 @@ images: ["/zh/2020/08/添加中文支持/images/title-post-capture.png"]
 
 我写了很多关已科技类的博格文章。所以我想到了不如用双语来写文章。但首先必须调整个人的博客配置来接受肯多语言。
 
+(起初的英文文章能在[这里找到](/2020/08/adding-chinese-support-to-my-blog/)。)
+
 <!--more-->
 
 我的博客使用Hugo "静态网站生成器" (static site generator). 我先去[Hugo 网站](https://gohugo.io/content-management/multilingual/)研究怎样开始。
@@ -33,7 +35,7 @@ DefaultContentLanguage  = "en"
     
   [Languages.zh.params.intro]
     header                = "杨庆铭"
-    paragraph             = "制作者，程序员，私人飞行员, 电脑历史爱好者"
+    paragraph             = "制作者，程序员，私人飞行员, 复古电脑爱好者"
 ...
 
     [Languages.zh.params.intro.pic]
@@ -78,7 +80,7 @@ DefaultContentLanguage  = "en"
 
 每个选单必须提供中文翻译。
 
-我找不到"retrocomputing"的中文翻译. 我问一个朋友他建我用"复古电脑"。
+我找不到"retrocomputing"的中文翻译. 我问一个朋友他建议我用"复古电脑"。
 
 {{< imgdisplay src="images/language-selection-mode.png" width="350" >}}
 
@@ -145,7 +147,7 @@ find . -name index.zh.md | xargs -I % sh -c "sed -i 's/\"Singapore\"/\"新加玻
 
 我选择保留了上面的UNIX命令，可能对他人有帮助。
 
-## 平论问题
+## 评论问题
 
 我使用了Disqus和Facebook的评论系统。它们需要你提供文章的URL然后它会下载文章具体的评论。我用了这个代码.
 

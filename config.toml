@@ -185,7 +185,7 @@ pygmentsStyle = "rtt"
     
   [Languages.zh.params.intro]
     header                = "杨庆铭"
-    paragraph             = "制作者，程序员，私人飞行员, 电脑历史爱好者"
+    paragraph             = "制作者，程序员，私人飞行员, 复古电脑爱好者"
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
