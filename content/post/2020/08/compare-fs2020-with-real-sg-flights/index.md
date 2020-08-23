@@ -68,7 +68,7 @@ This above screenshot was taken from my [Piper Warrior checkout](https://www.you
 
 The Cessna 172 models used in the game comes with both the glass-cockpit G1000 and steam although the latter requires the Deluxe version to be purchased.
 
-The variant used in the game is the newer S model compared to the N-model used by Seletar Flying Club. For a closer comparison, I shall use a photo of the C172R which I learned to fly on in the US.
+The variant used in the game is the newer S-model compared to the N-model used by Seletar Flying Club. For a closer comparison, I shall use a photo of the C172R which I learned to fly on in the US.
 
 | FS2020 | Actual |
 |--------|--------|
@@ -132,7 +132,7 @@ The renderings are still great although we can still tell this is CGI. Funny thi
 |--------|--------|
 | {{< imgdisplay src="images/fs2020-sim-entering-seletar.jpg" width="500" >}} | {{< imgdisplay src="images/fs2020-actual-entering-seletar.jpg" width="500" >}} |
 
-Both are at the same altitude of 2500 feet at approximately the same position with similar bank angle so an apples to apples comparison can be made. The perspective is indicate very accurate!
+Both are at the same altitude of 2500 feet at approximately the same position with similar bank angle so an apples to apples comparison can be made. The perspective is indeed very accurate!
 
 ## Night
 
@@ -164,7 +164,7 @@ The city area is beautifully rendered! We can tell the developers spent a lot mo
 
 {{< imgdisplay src="images/fs2020-sim-flyer.jpg" width="700" >}}
 
-Flyer looks nice. But what is really comical is that Benjamin Sheares Bridge is totally underwater and the vehicles just cross the Marina Reservoir like nothing!
+Flyer looks nice. But what is really comical is that the Benjamin Sheares Bridge is totally underwater and the vehicles just cross the Marina Reservoir like nothing!
 
 ## ATC Voice procedure
 
@@ -190,7 +190,7 @@ One calls Paya Lebar Approach for real. :P
 
 {{< imgdisplay src="images/fs2020-sim-r21-downwind.jpg" width="700" >}} 
 
-Seletar Runway 21 is a right traffic pattern but here the simulated ATC says join at left downwind.
+Seletar Runway 21 is actually right traffic pattern but here the simulated ATC says join left downwind. I ignore that ATC and do the right thing.
 
 ## Game Performance
 
