@@ -76,7 +76,7 @@ The variant used in the game is the newer S model compared to the N-model used b
 
 It looks very close! The graphical fidelity of the game is really impressive. In fact if I just take a quick glance at this screenshot, it could have passed off for the real thing!
 
-As for the Physics, it's extremely close. I flew the plane as close as I can to the real speeds of the C172 and the performance characteristics are very similar. Even the left-turning tendencies are real under the hard setting.
+As for the Physics, it matches the real C172 very well. I flew the plane as close as I can to the real speeds of the C172 and the performance characteristics are very similar. Even the left-turning tendencies are real under the hard setting.
 
 A slight gripe I have is that the virtual plane is extremely sensitive to the rudder inputs during taxing so I zig zag quite a lot.
 
@@ -188,7 +188,7 @@ In Singapore one, would need to provide the fuel endurance and number of people 
 
 One calls Paya Lebar Approach for real. :P
 
-## Joining Seletar
+### Joining Seletar
 
 {{< imgdisplay src="images/fs2020-sim-r21-downwind.jpg" width="700" >}} 
 
