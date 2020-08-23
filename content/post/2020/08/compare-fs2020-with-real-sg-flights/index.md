@@ -78,9 +78,7 @@ It looks very close! The graphical fidelity of the game is really impressive. In
 
 As for the Physics, it matches the real C172 very well. I flew the plane as close as I can to the real speeds of the C172 and the performance characteristics are very similar. Even the left-turning tendencies are real under the hard setting.
 
-A slight gripe I have is that the virtual plane is extremely sensitive to the rudder inputs during taxing so I zig zag quite a lot.
-
-I only have a joystick that has no force-feedback so I would say flying the simulator is actually slightly harder now that I'm so used to the all-round visibilty, forces and vibrations cues of the real plane.
+I only have a joystick that has no force-feedback so I would say flying the simulator is actually slightly harder now that I'm so used to the all-round visibilty, forces and vibration cues of the real plane.
 
 ## At Area Alpha
 
@@ -174,11 +172,11 @@ The ATC voice procedure is extremely US-centric with an obvious American accent.
 
 ### Request taxi
 
-| FS2020 (05:11 - 05:39) | Actual (16:16 - 15:17)  |
+| FS2020 (05:11 - 05:39) | Actual (14:16 - 15:17)  |
 |--------|--------|
 | {{< youtube2 id="iE9rQ0p8Bd4" yt_start="311" yt_end="339">}} | {{< youtube2 id="xL8pNWzvuug" yt_start="856" yt_end="917">}} |
 
-In Singapore one, would need to provide the fuel endurance and number of people onboard.
+In Singapore, one would need to provide the fuel endurance and number of people onboard.
 
 ### Entering Area A
 
