@@ -168,7 +168,15 @@ Flyer looks nice. But what is really comical is that the Benjamin Sheares Bridge
 
 ## ATC Voice procedure
 
-The ATC voice procedure is extremely US-centric with an obvious American accent. The procedure this Sim uses is also so much different from how Seletar and Singapore actually does things. Here are 2 examples:
+The ATC voice procedure is extremely US-centric with an obvious American accent. The procedure this Sim uses is also so much different from how Seletar and Singapore actually does things. Here are some examples:
+
+### Automatic Terminal Information Service (ATIS)
+
+| FS2020 (04:01 - 04:34) | Actual |
+|--------|--------|
+| {{< youtube2 id="iE9rQ0p8Bd4" yt_start="241" yt_end="274">}} | {{< youtube2 id="ZP3XAR06Vh4">}} |
+
+ATIS provides the weather and other airport information. Seletar's ATIS is a recent edition in June 2020.
 
 ### Request taxi
 
