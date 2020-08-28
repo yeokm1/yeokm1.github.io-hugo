@@ -193,7 +193,7 @@ Official information of the light aircraft training areas and procedures can be 
 
 A map of the training area boundaries was provided to me by SFC.
 
-[![](images/ppl-training-airspace-zoom.jpg)](ppl-training-airspace-zoom.jpg)
+[![](images/ppl-training-airspace-zoom.jpg)](images/ppl-training-airspace-zoom.jpg)
 
 Area A (Blue): Surface to 4500 feet
 
