@@ -7,7 +7,7 @@ images: ["/zh/2020/08/flight-simulator-2020跟新加坡实际飞行如何相比/
 
 Flight Simulator 2020 (FS2020) 最近刚发布。 有许多玩家在网上分享了影片。但是，有很少关于新加坡的影片。大多数从樟宜机场飞到中环区. 实际上这是非法的. 在飞的时后，他们也不适用任何现实的程序。
 
-事实上，通用航空 (General Aviation) 在新加坡内只能在[实里达机场（WSSL）和当地的轻型飞机训练区（LATA）（/2019/06/notes-on-flying-in-wssl-and -sg-training-area/）进行。
+事实上，通用航空 (General Aviation) 在新加坡内只能在[实里达机场（WSSL）和当地的轻型飞机训练区（LATA)](/2019/06/notes-on-flying-in-wssl-and-sg-training-area/)进行。
 
 我个人已经几次从实里达机场飞去轻型飞机训练区。因此，我想为什么不在这个模拟器中像实际飞机一样飞, 然后跟它相比.
 
