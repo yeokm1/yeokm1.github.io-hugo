@@ -9,6 +9,8 @@ With the recent release of Microsoft Flight Simulator 2020 (FS2020), many videos
 
 In reality, General Aviation (GA) for visual flying within Singapore is limited to [Seletar Airport (WSSL) and the local Light Aircraft Training Area (LATA)](/2019/06/notes-on-flying-in-wssl-and-sg-training-area/). I have personally made many flights from WSSL although mostly to the local training area in the Northern part of SG. So I thought why not I conduct flights in this game as close as I can to a real plane and see how this stacks up to the real thing?
 
+(Check out the Chinese version of this post [here](/zh/2020/08/flight-simulator-2020跟新加坡实际飞行如何相比/).)
+
 <!--more-->
 
 ## Videos
@@ -98,7 +100,7 @@ The Turf Club can be spotted and so are the Woodlands and Sembawang areas. Very 
 |--------|--------|
 | {{< imgdisplay src="images/fs2020-sim-area-a-face-south.jpg" width="500" >}} | {{< imgdisplay src="images/fs2020-actual-area-a-face-south.jpg" width="500" >}} |
 
-Facing South, the BKE and the flats in Bukit Panjang flats are visible. Even the orange field is visible as well. My cockpit camera does not do reality justice so trust me when I say BKE is quite well rendered.
+Facing South, the BKE and the flats in Bukit Panjang flats are visible. Even the orange field is visible as well. 
 
 ## At 10000 feet
 
