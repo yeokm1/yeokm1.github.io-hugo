@@ -18,7 +18,20 @@ categories: ["singapore", "politics"]
 10. You want your CPF back right. **Fine, you all will get your CPF back in full at age 55. You will also lose all Medishield coverage at the same time.** Attending any hospital from that point on will require you to pay in cash and in full. Didn’t your opposition MP tell you that in the rally? Don’t come crying to the government if you spend all your CPF money at the casino. Ask for handouts from your opposition MP instead.
 11. You voters sorely misunderstand the Population White Paper. It is not about targeting a population of 6.9 million, it is about building the necessary infrastructure to take care of the WORST CASE Scenario of 6.9 million amongst many others. Since you guys are taken in by the misrepresentation by the opposition parties, fine **we will not implement the policies in the White Paper for your wards** just like what you and the opposition parties wanted.
 
-- These include but are not limited to: a. Parenthood schemes b. Assisted Reproduction Technology subsidies c. Enhanced baby-bonus d. Paid maternal/paternal leaves e. PIC applications will be stopped to companies located in the wards with immediate effect as supposed to 2017. Claims will be approved retroactively should they desire to move to a new location outside the ward. f. WTS and STEP schemes will not be applicable to employees living in an opposition ward. g. No more Workfare for you. Why have Workfare when you already have a minimum wage? h. You can’t use the job matching portal provided by WDA or your CDC. i. No noise barriers for transport hubs j. Rate of building BTO units will return to levels before the White Paper. k. If a Community Hospital is slated but yet to be built in your ward, it will be cancelled and a new location found elsewhere. l. The Cross Island Line and Jurong Region Lines will be revaluated if they fall in your ward. Stations will be built, but not opened until you repent from your mistakes. We have started a line with closed stations before, remember Buangkok? m. Hate foreigners right, foreigners will no longer be allowed to rent HDB flats in your wards.
+- These include but are not limited to: 
+a. Parenthood schemes  
+b. Assisted Reproduction Technology subsidies  
+c. Enhanced baby-bonus  
+d. Paid maternal/paternal leaves  
+e. PIC applications will be stopped to companies located in the wards with immediate effect as supposed to 2017. Claims will be approved retroactively should they desire to move to a new location outside the ward.  
+f. WTS and STEP schemes will not be applicable to employees living in an opposition ward.  
+g. No more Workfare for you. Why have Workfare when you already have a minimum wage?  
+h. You can’t use the job matching portal provided by WDA or your CDC.  
+i. No noise barriers for transport hubs  
+j. Rate of building BTO units will return to levels before the White Paper.  
+k. If a Community Hospital is slated but yet to be built in your ward, it will be cancelled and a new location found elsewhere.  
+l. The Cross Island Line and Jurong Region Lines will be revaluated if they fall in your ward. Stations will be built, but not opened until you repent from your mistakes. We have started a line with closed stations before, remember Buangkok?  
+m. Hate foreigners right, foreigners will no longer be allowed to rent HDB flats in your wards. 
 
 Want to know those we have missed out? I bet you will read the Population White Paper in greater detail now. People only realise the value of something after they lose it.
 
