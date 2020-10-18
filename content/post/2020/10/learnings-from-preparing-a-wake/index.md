@@ -147,7 +147,7 @@ It's very easy to forget this in the heat of moment. At least do tell your emplo
 
 If the death is at home, the FD will make an initial visual assessment of the deceased and call their affiliated doctor (if the family does not have one) over to certify the death.
 
-While waiting for the doctor to arrive, here is when the FD will layout again the latest wake packages and prices. Relatives or key decision makers should be around by now. Make sure everyone is agreeable to the expected plan and price of the wake proceedings.
+While waiting for the doctor to arrive, here is when the FD will layout again the latest wake packages and prices. Key decision-making relatives should be around by now. Everyone should be agreeable to the expected plan and price of the wake proceedings.
 
 ### 5. Certifying doctor (if death occurs at home)
 
@@ -173,7 +173,7 @@ Make a booking with them early as "better" time slots are taken very quickly.
 
 ### 8. Call the town council or EMSU to book void-deck space
 
-Ring the town council office or EMSU quickly to make a tentative reservation of the void deck space in the wake timeframe. 
+Ring the town council office or EMSU quickly to make a tentative reservation of the void deck space for the wake timeframe. 
 
 If your preferred space is already booked, you have no choice but to go down your ordered list until you find one that fits your wake schedule.
 
@@ -189,7 +189,7 @@ Many parties would need this, so once you have the original certificate back hom
 
 ### 11. Head to the Town Council office to officially book the reserved space
 
-A trip to the Town Council office has to be done by a family member living in the area to book the void deck space. This is so as only a nearby resident can book this space even for normal events.
+A trip to the Town Council office has to be done by a family member living in the area to book the void deck space. This is so as only a resident living in the area can book this space even for normal events.
 
 This has to be done in person as the **original** Death Certificate has to be produced as proof during the booking.
 
@@ -199,7 +199,7 @@ These were several roles "created" by my family:
 
 a. Main POC to FD
 
-Any important information/queries will be relayed through him/her is treated as the key decision making authority
+Any important information/queries will be relayed through him/her and is treated as the key decision making authority
 
 b. Administrative
 
@@ -222,15 +222,15 @@ Additional roles can be created as needed.
 This is not as trivial as it sounds. Whether you opt for a caterer affiliated to the FD or get your own, one party has to plan the meals and be in contact with the caterer
 
 1. Number of meals
-2. Pax for meal
-3. Menu for each meal
+2. Pax per meal
+3. Food selection for each meal
 4. Delivery time for each meal
 
-The caterer may need up to 24 hours lead time to prepare the meals. Therefore, everything has to be meticulously planned ahead. Of course do this in consultation with the other family members to make sure they are okay the proposed meal arrangements and can fit everyone's dietary requirements.
+The caterer may need up to 24 hours lead time to prepare the meals. Therefore, everything has to be meticulously planned ahead. Of course do this in consultation with the other family members to make sure they are okay with the proposed meal arrangements and can fit everyone's dietary requirements.
 
 ### 14. Standby SG Food Rescue
 
-There may be a minimum order quantity for each meal. If your family size is relatively small like mine, large amounts of food may potentially be wasted.
+There may be a minimum order quantity for each meal. If your family size is relatively small like mine or if fewer than expected relatives turn up, large amounts of food may potentially be wasted.
 
 To mitigate this problem, one can contact [SG Food Rescue](https://sgfoodrescue.wordpress.com/) to have them standby available volunteers to help collect any leftovers to ensure it does not go to waste.
 
@@ -246,7 +246,7 @@ Whether is the columbarium or place of worship, this has to be done soon as the 
 
 ### 17. Collect Ashes
 
-This can be done by a family member or the Funeral Director. The niche location may need to take away the "Collection of Cremated Remains" document issued by NEA so do make a copy for that first.
+This can be done by a family member or the Funeral Director. The organisation holding the niche may need to take away the "Collection of Cremated Remains" document issued by NEA so do make a copy for that first.
 
 ## Conclusion 
 
@@ -254,4 +254,4 @@ People rarely ever pass away suddenly except for accidents. The signs are usuall
 
 Seeing as the topic of death and wakes are anecdotally still a largely taboo issue in Singapore, not many people will write about this topic online. Hence online information will be largely dominated by official government websites which usually only give the high-level details or what the FD websites say.
 
-I hope with this blog post sharing of my experience, it could help the next family in planning for this. It would have certainly helped me and my family if I have seen this information earlier.
+I hope with this blog post sharing of my experience, it can help the next family in planning for this. It certainly would have helped me and my family if we had this information earlier.
