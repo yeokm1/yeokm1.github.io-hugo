@@ -252,6 +252,6 @@ This can be done by a family member or the Funeral Director. The niche location 
 
 People rarely ever pass away suddenly except for accidents. The signs are usually there long before the sad event. The 2 most common reasons are illness and old age. When it happens, family members are usually distraught and unsure of what to do especially if not much preparation was done beforehand.
 
-Seeing as the topic of death and wakes are anecdotally still a largely taboo issue in Singapore, not many people will write about this topic online. Hence online information will be largely dominated by official government websites or what the Funeral Director websites say.
+Seeing as the topic of death and wakes are anecdotally still a largely taboo issue in Singapore, not many people will write about this topic online. Hence online information will be largely dominated by official government websites which usually only give the high-level details or what the FD websites say.
 
 I hope with this blog post sharing of my experience, it could help the next family in planning for this. It would have certainly helped me and my family if I have seen this information earlier.
