@@ -62,7 +62,7 @@ The finalised official booking has to be done in person at a Town Council office
 
 With the party's requirements and approximate location in mind, some research is in order. Contact some wake companies and niche locations for a price estimate based on what kind of services you need.
 
-The rule of you pay for what you get generally holds true here. The package you opt for will greatly influence factors like the following:
+The rule of you get what you pay for generally holds true here. The package you opt for will greatly influence factors like the following:
 
 * How many days to hold the wake?
 * Quality of decorations
@@ -121,9 +121,9 @@ A video montage may be part of the wake package. In that case, they will ask for
 
 If those photos are not prepared early, it would be a mad rush to find sufficient amount of relevant photos. Precious time to lose in an event-packed wake proceedings.
 
-My family wasn't aware of this so we had a mad rush to scrounge through my grandmother's ancient photo albums. Thankfully we knew at least where they were kept. However, given the analog photos of decades ago, lots of manual scanning and cropping work had to be done.
+My family wasn't aware of this so we quickly had to scrounge through my grandmother's ancient photo albums. Thankfully we knew at least where they were kept. However, given the analog photos of decades ago, lots of manual scanning and cropping work had to be done.
 
-Even if the FD does not provide this kind of video montage service, it can also be nice touch to do some kind of Powerpoint slide show of the photos.
+Even if the FD does not provide this kind of video montage service, it can also be nice touch to do some kind of Powerpoint slide show with the photos.
 
 ## When the eventuality happens
 
