@@ -143,7 +143,7 @@ No question about this. They too need time to come over to see the deceased as w
 
 It's very easy to forget this in the heat of moment. At least do tell your employer so that they can arrange people to cover your duties. They may also need time to arrange to send a wreath over if they choose to.
 
-### 4. Discussion with the FD and appointing key point-of-contacts
+### 4. Discussion with the FD
 
 If the death is at home, the FD will make an initial visual assessment of the deceased and call their affiliated doctor (if the family does not have one) over to certify the death.
 
@@ -171,31 +171,31 @@ There is only one government-run crematorium which is Mandai Crematorium and Col
 
 Make a booking with them early as "better" time slots are taken very quickly.
 
-### 7. Call the town council or EMSU to book void-deck space
+### 8. Call the town council or EMSU to book void-deck space
 
 Ring the town council office or EMSU quickly to make a tentative reservation of the void deck space in the wake timeframe. 
 
 If your preferred space is already booked, you have no choice but to go down your ordered list until you find one that fits your wake schedule.
 
-### 8. Standby personal effects
+### 9. Standby personal effects
 
 The FD will also call their personnel to take the deceased away for embalming. While they are on the way, standby the clothes and adornments you want the deceased to wear during the wake.
 
 The embalmers will dress the deceased in these after the process is completed before returning the body.
 
-### 9. Make copies of the death certificate
+### 10. Make copies of the death certificate
 
 Many parties would need this, so once you have the original certificate back home, make a few copies. In addition to that, take a high-quality scan image using a proper scanner as you want to minimise repeated handling of that important piece of paper.
 
-### 10. Head to the Town Council office to officially book the reserved space
+### 11. Head to the Town Council office to officially book the reserved space
 
 A trip to the Town Council office has to be done by a family member living in the area to book the void deck space. This is so as only a nearby resident can book this space even for normal events.
 
 This has to be done in person as the **original** Death Certificate has to be produced as proof during the booking.
 
-### 11. Appoint relevant roles
+### 12. Appoint relevant roles
 
-These were several adhoc roles my family had.
+These were several roles "created" by my family:
 
 a. Main POC to FD
 
@@ -217,7 +217,7 @@ Explained more in next section
 
 Additional roles can be created as needed.
 
-### 12. Catering
+### 13. Catering
 
 This is not as trivial as it sounds. Whether you opt for a caterer affiliated to the FD or get your own, one party has to plan the meals and be in contact with the caterer
 
@@ -228,7 +228,7 @@ This is not as trivial as it sounds. Whether you opt for a caterer affiliated to
 
 The caterer may need up to 24 hours lead time to prepare the meals. Therefore, everything has to be meticulously planned ahead. Of course do this in consultation with the other family members to make sure they are okay the proposed meal arrangements and can fit everyone's dietary requirements.
 
-### 13. Standby SG Food Rescue
+### 14. Standby SG Food Rescue
 
 There may be a minimum order quantity for each meal. If your family size is relatively small like mine, large amounts of food may potentially be wasted.
 
@@ -236,15 +236,15 @@ To mitigate this problem, one can contact [SG Food Rescue](https://sgfoodrescue.
 
 Submit on the [contact form](https://sgfoodrescue.wordpress.com/contact-us/) on their website and you'll get a POC from them to arrange things.
 
-### 14. Wrap some red packets as tips
+### 15. Wrap some red packets as tips
 
 This one is an unwritten guideline. The hongbaos act as tips for service staff, monks and other external parties. A hongbao can sometimes go a long way in getting good service.
 
-### 15. Reserve niche location
+### 16. Reserve niche location
 
-Whether is the columbarium or place of worship, this has to be done soon as the ashes will have to be moved to the final resting place at the end of the funeral. 
+Whether is the columbarium or place of worship, this has to be done soon as the ashes will have to be moved to the final resting place at the end of the funeral after the cremation.
 
-### 16. Collect Ashes
+### 17. Collect Ashes
 
 This can be done by a family member or the Funeral Director. The niche location may need to take away the "Collection of Cremated Remains" document issued by NEA so do make a copy for that first.
 
