@@ -11,6 +11,8 @@ This was not my first time attending or helping out in a wake, but it was the fi
 
 Although no one likes to go through wakes especially one from your own family, there are several points to learn from so it can lessen the burden for the subsequent one. In hindsight, I would say my family did quite well in this aspect but of course there are still extra learning points.
 
+<!--more-->
+
 ## Long before the wake
 
 As much as planning for what happens after death may be a taboo topic, not planning ahead is only going to cause more grief when it happens.
