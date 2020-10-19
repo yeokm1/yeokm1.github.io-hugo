@@ -99,7 +99,7 @@ This is pretty obvious. IC and probably a photocopy.
 
 If one passes away from natural old age, very rarely he/she will have zero health issues near the end of their life. 
 
-Having those documents like past doctor appointments, medicine etc easily accessible and filed will aid the certifying doctor in certifying the cause of death.
+Having those documents like past doctor reports, medicine etc easily accessible and filed will aid the certifying doctor in certifying the cause of death.
 
 3. Clothes and adornments for the deceased
 
@@ -123,7 +123,7 @@ If those photos are not prepared early, it would be a mad rush to find sufficien
 
 My family wasn't aware of this so we quickly had to scrounge through my grandmother's ancient photo albums. Thankfully we knew at least where they were kept. However, given the analog photos of decades ago, lots of manual scanning and cropping work had to be done.
 
-Even if the FD does not provide this kind of video montage service, it can also be nice touch to do some kind of Powerpoint slide show with the photos.
+Even if the FD does not provide this kind of video montage service, it can also be nice touch to do some kind of simpler Powerpoint slide show with the photos.
 
 ## When the eventuality happens
 
