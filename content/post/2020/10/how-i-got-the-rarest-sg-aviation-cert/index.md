@@ -73,6 +73,10 @@ For some countries like the US, their CoV-equivalent (foreign-based piggyback) l
 
 Point 4 is actually something special. Many CAAS PPL holders don't have those privileges as those are separate ratings which require extra local and overseas instruction. For as long as my CoV is valid, I can technically do more than many CAAS PPL holders on the 9V plane.
 
+{{< imgdisplay src="images/cov-application-radio.png" width="700" >}}
+
+Additionally, CAAS stipulates a restriction that I cannot divulge what I hear over the radio. This means I cannot share videos of my flights in the 9V-plane.
+
 ### 3 months and once-off is so pathetic leh, why doesn't a CAAS CoV last longer leh?
 
 Of course last longer better for pilots lah. Like the American one for PPL.
@@ -127,7 +131,7 @@ In addition to that, you have to bring down your original logbook and copies to 
 
 ### 3. Recent flight experience
 
-I was asked when was my last flight. Apparently recent flight experience is required (or strongly preferred), preferably in Singapore's airspace. Especially so since this is a validation of a PPL means I have a far higher likelihood of flying more often within Singapore unlike the commercial/airline pilots.
+I was asked when was my last flight. Apparently recent flight experience is required (or strongly preferred?). Especially so since this is a validation of a PPL means I have a far higher likelihood of flying more often in Singapore's trainig area unlike the commercial/airline pilots.
 
 Fortunately, I have been already flying regularly within Singapore's airspace using my FAA PPL so this is not an issue.
 
