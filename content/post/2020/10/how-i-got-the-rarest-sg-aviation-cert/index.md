@@ -131,7 +131,7 @@ In addition to that, you have to bring down your original logbook and copies to 
 
 ### 3. Recent flight experience
 
-I was asked when was my last flight. Apparently recent flight experience is required (or strongly preferred?). Especially so since this is a validation of a PPL means I have a far higher likelihood of flying more often in Singapore's trainig area unlike the commercial/airline pilots.
+I was asked when was my last flight. Apparently recent flight experience is required (or strongly preferred?). Especially so since this is a validation of a PPL means I have a far higher likelihood of flying more often in Singapore's training area unlike the commercial/airline pilots.
 
 Fortunately, I have been already flying regularly within Singapore's airspace using my FAA PPL so this is not an issue.
 
@@ -159,7 +159,7 @@ The office address is challenging to locate if one has never been there before.
 
 {{< imgdisplay src="images/cov-application-caas-office.jpg" width="500" >}}
 
-Although the address is technically correct at Terminal 2, it's not the T2 most of us are familiar with. It involves a walk through a carpark and a skybridge. 
+This is one address Google Maps does not give me a clear position of. Although the address is technically correct at Terminal 2, it's not the T2 most of us are familiar with. It involves a walk through a carpark and a skybridge. 
 
 This is made harder by the fact the public-facing T2 is now closed during this COVID-crisis. I was lost in the deserted area trying to find a way to that office.
 
@@ -193,7 +193,7 @@ Although this PPL CoV certificate to PIC a 9V-plane is rarer than the number of 
 
 Still as one private pilot says:
 
->We naughty kids making ga more fun in Singapore hahaha
+>We naughty kids making GA more fun in Singapore hahaha
 
 ## Conclusion
 
@@ -203,6 +203,6 @@ Other than a future conversion or rule change, it means that this 3-month period
 
 {{< imgdisplay src="images/cov-me-with-boq.jpg" width="600" >}}
 
-Not any Singapore-registered aircraft though, just this one. I did all of these, just for the short opportunity to fly the only SG-registered Cessna 172 in the world and share the joy with passengers. It's a plane many Singaporeans pilots earned their initial wings on. Now I believe, that is a tail number worth writing in my logbook on.
+Not any Singapore-registered aircraft though, just this one. I did all of these, just for the short opportunity to fly the only SG-registered Cessna 172 in the world and share the joys with my passengers. It's a plane many Singaporeans pilots earned their initial wings on. Now I believe, that is a tail number worth writing in my logbook on.
 
 Many thanks to the best SFC instructor Jezreel for helping me throughout the process to get my CoV.
