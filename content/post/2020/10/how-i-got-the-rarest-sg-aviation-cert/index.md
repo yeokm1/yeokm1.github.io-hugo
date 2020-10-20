@@ -11,7 +11,7 @@ This is what this precious piece of paper looks like!
 
 {{< imgdisplay src="images/cov-back.jpg" width="700" >}}
 
-This aviation certificate is so rare, I'm not surprised if I'm the only one right now that has a valid one.
+This aviation certificate for a PPL is so rare, I'm not surprised if I'm the only one right now that has a valid one.
 
 <!--more-->
 
@@ -77,7 +77,9 @@ Point 4 is actually something special. Many CAAS PPL holders don't have those pr
 
 Of course last longer better for pilots lah. Like the American one for PPL.
 
-Officially it's in the regulations. Unofficially, it's anyone's guess.
+Officially it's in the regulations. 
+
+I heard it's actually meant for pilots who are in the process of converting to the full license.
 
 ## How did I apply for this validation?
 
@@ -101,7 +103,7 @@ I followed the document's instructions to the letter
 
 My application was figuratively thrown back at me the first time I went there.
 
-Apparently following the instructions listed in that application form does not work. After some red tape and help from Seletar Flying Club, I would eventually get my CoV.
+Apparently following the instructions listed in that application form does not work. After some red tape and extensive help from Seletar Flying Club, I would eventually get my CoV.
 
 I would find out during this process that there are several unwritten processes and requirements behind this which I shall now share.
 
@@ -171,7 +173,7 @@ The lockers are located to the right of their office.
 
 ### Improvements to application form
 
-I suggested the following changes to the application form to the CAAS staff so that future applicants and themselves will face less trouble.
+I suggested the following changes to the application form to the CAAS staff so that future applicants and themselves will face less hassle.
 
 1. State that original documents have to be brought down for verification
 2. State that logbook and a copy is required
@@ -183,7 +185,7 @@ It seems there are lots of stuff we don't know we don't know or the rules don't 
 
 General Aviation private pilots are a rare breed in Singapore. After discounting most airline and air force pilots who generally don't fly GA, there can't be more than a few hundred local GA pilots with active licences.
 
-Although this certificate to PIC a 9V-plane is rarer than the number of CAAS PPL holders itself, my experience pales in comparison to the effort they have to go through while earning and maintaining their licences.
+Although this PPL CoV certificate to PIC a 9V-plane is rarer than the number of CAAS PPL holders itself, my experience pales in comparison to the effort they have to go through while earning and maintaining their licences. Really salute them.
 
 Still as one private pilot says:
 
@@ -193,10 +195,10 @@ Still as one private pilot says:
 
 It's my hope with this post, whoever wants to follow this path should at least have an easier time.
 
-Other than a future conversion or rule change, it means that this 3-month period is the only time in my life I'll ever be able to legally command a Singapore-registered aircraft.
+Other than a future conversion or rule change, it means that this 3-month period is the only time in my life I'll ever be able to legally command a Singapore-registered aircraft to take passengers.
 
 {{< imgdisplay src="images/cov-me-with-boq.jpg" width="600" >}}
 
-Not any Singapore-registered aircraft though, just this one. I did all of these, just for the short opportunity to fly the only SG-registered Cessna 172 in the world. It's a plane many Singaporeans pilots earned their initial wings on. Now I believe, that is a tail number worth writing in my logbook on.
+Not any Singapore-registered aircraft though, just this one. I did all of these, just for the short opportunity to fly the only SG-registered Cessna 172 in the world and share the joy with passengers. It's a plane many Singaporeans pilots earned their initial wings on. Now I believe, that is a tail number worth writing in my logbook on.
 
 Many thanks to the best SFC instructor Jezreel for helping me throughout the process to get my CoV.
