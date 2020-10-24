@@ -1,6 +1,6 @@
 ---
 title: "How I got the rarest Singapore Pilot Certificate?"
-date: 2020-10-18
+date: 2020-10-20
 categories: ["personal", "aviation", "singapore"]
 images: ["/2020/10/how-i-got-the-rarest-singapore-pilot-certificate/images/cov-front.jpg"]
 ---
