@@ -57,8 +57,11 @@ Captain Nate Self formerly in US Army about the Battle of Takur Ghar. Brief: US 
 
 # Fiction (Games\Films\TV Series\Anime\Books):
 
+*Computers aren't the thing. They're the thing that gets us to the thing.*  
+-Joe MacMillan in Halt and Catch Fire
+
 *The Official Secrets Act is not there to protect Secrets, it is there to protect Officials.*  
-Sir Humphrey, Permanent Secretary in the  British political comedy Yes Minister. [Src][13]
+-Sir Humphrey, Permanent Secretary in the British political comedy Yes Minister. [Src][13]
 
 *So this is how liberty dies. With thunderous applause*  
 -Senator Amidala in Star Wars: Episode III: Revenge of the Sith. [Src][14]
