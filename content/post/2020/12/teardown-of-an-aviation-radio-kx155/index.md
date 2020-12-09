@@ -5,15 +5,13 @@ categories: ["teardowns", "aviation"]
 images: ["/2020/12/teardown-of-an-aviation-radio-bendix-king-kx-155/images/kx155-original.jpg"]
 ---
 
-A faulty aircraft radio recently came to my hands. I decided to take the opportunity to do a teardown of the radio to inspect what are its major components to learn how it works.
+A faulty aircraft radio model Bendix King KX-155 recently came to my hands. 
+
+As a private pilot of light General Aviation aircraft for about 2 years, I have used this radio in almost all the planes I have flown but never really looked at what goes on behind the scenes.
+
+I decided to take this opportunity to do a teardown of the radio to inspect what are its major components to learn how it works.
 
 <!--more-->
-
-## First look at the radio
-
-{{< imgdisplay src="images/kx155-original.jpg" width="600" >}}
-
-The front portion of the radio as seen by the pilot.
 
 ## But first, what is a Bendix King KX-155?
 
@@ -33,7 +31,7 @@ To explain the above:
 
 * 118.00 to 135.975 Mhz is used for pilots to talk to Air-traffic Controllers or other aircraft.
 
-* 108.00 Mhz to 117.95 Mhz are used by VHF omni-directional range (VOR) ground-based navigation systems.
+* 108.00 Mhz to 117.95 Mhz is used by VHF omni-directional range (VOR) ground-based navigation systems.
 
 * 329.15 Mhz to 335.00 Mhz is used by the Instrument Landing System to guide pilots down to the runway in low visibility.
 
@@ -58,10 +56,6 @@ Since this radio is faulty, I'll take a screenshot from an [online brochure](htt
 To use the radio, the pilot sets the standby frequency on the right (in this case is 136.97) by rotating the selector knob. Pressing the Transfer button will swap the active frequency 118.00 on the left with the standby.
 
 Pressing the Push-to-talk button on the control yoke will tell the radio to use the audio signal from the pilot's headset microphone and transmit on the active frequency.
-
-{{< youtube2 id="IMSy016fkG8" yt_start="1008" yt_end="1054">}}
-
-To illustrate the radio operation, here is a video of one of my flights (16:48 - 17:34) when I was switching from Ground frequency (121.6) to Tower frequency (118.45) and setting the next frequency of Approach (127.7) as the new standby.
 
 The second set of frequencies on the right are for the ground-based navigation systems.
 
@@ -146,7 +140,7 @@ Therefore 2 special IC drivers (circled) are present to drive the COMM and NAV d
 {{< imgdisplay src="images/kx155-driver-datasheet.png" width="600" >}}
 [Source](http://pdf.datasheetcatalog.com/datasheets/105/216875_DS.pdf)
 
-I googled what was written on the silkscreen of National Semiconductor DS8884AN to locate the datasheet. Each DS8884AN will receive the Binary coded Decimal (BCD) input including decimal point from the microprocessor on pins 2-6 and will sink the appropriate amount of current of each segment.
+I googled what was written on the silkscreen of National Semiconductor DS8884AN to locate the datasheet. Each DS8884AN will receive the Binary Coded Decimal (BCD) input including decimal point from the microprocessor on pins 2-6 and will sink the appropriate amount of current of each segment.
 
 However there are many digits in the display driven by only 2x drivers. 
 
@@ -188,7 +182,7 @@ To understand what I was looking at, I first looked at what the maintenance manu
 
 To a non-RF person like me, this really looks full of jargon... 
 
-The schematic diagram of the Comms section in the scanned maintenance manual is too poor a resolution to be useful so I can only utilise the high-level block diagrams, extremely-blur board layouts and BOM where possible.
+The schematic diagram of the Comms section in the scanned maintenance manual is too poor a resolution to be useful so I can only utilise the high-level block diagrams, extremely-blur board layout diagrams and BOM where possible.
 
 ### Transmit Section
 
@@ -214,7 +208,7 @@ These crystals caught my attention:
 
 {{< imgdisplay src="images/kx155-crystal-top.jpg" width="600" >}}
 
-They are probably used to generate the reference 11.4Mhz frequency. They are also connected in series which I have not seen before. Googling does not give me an answer. Does connecting crystals is series sort of increase their overall drive level?
+They are probably used to generate the reference 11.4Mhz frequency. They are also connected in series which I have not seen in any design before. Googling does not give me an answer. Does connecting crystals is series sort of increase their overall drive level?
 
 {{< imgdisplay src="images/kx155-mc1350p.jpg" width="600" >}}
 
