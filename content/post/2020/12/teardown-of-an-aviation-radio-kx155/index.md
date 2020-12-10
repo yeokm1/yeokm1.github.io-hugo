@@ -208,7 +208,11 @@ These crystals caught my attention:
 
 {{< imgdisplay src="images/kx155-crystal-top.jpg" width="600" >}}
 
-They are probably used to generate the reference 11.4Mhz frequency. They are also connected in series which I have not seen in any design before. Googling does not give me an answer. Does connecting crystals is series sort of increase their overall drive level?
+These 4 11.4Mhz crystals are connected in series which I have not seen in any design before. 
+
+According to a reader, this design is called a [crystal ladder filter](https://en.wikipedia.org/wiki/Crystal_filter). In the block diagram, this is referred to as "8 Pole Xtal Filter 11.4Mhz".
+
+The incoming signals from the Mixer have already converted the input to 11.4Mhz IF. The crystal ladder filter operates as a bandpass filter that attenuates all other frequencies except those close to 11.4Mhz.
 
 {{< imgdisplay src="images/kx155-mc1350p.jpg" width="600" >}}
 
