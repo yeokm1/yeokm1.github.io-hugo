@@ -7,7 +7,7 @@ images: ["/2020/12/teardown-of-an-aviation-radio-bendix-king-kx-155/images/kx155
 
 A faulty aircraft radio model Bendix King KX-155 recently came to my hands. 
 
-As a private pilot of light General Aviation aircraft for about 2 years, I have used this radio in almost all the planes I have flown but never really looked at what goes on behind the scenes.
+As a private pilot of light General Aviation aircraft for about 2 years, I have used this model of radio in almost all the planes I have flown but never really looked at what goes on behind the scenes.
 
 I decided to take this opportunity to do a teardown of the radio to inspect what are its major components to learn how it works.
 
@@ -31,9 +31,9 @@ To explain the above:
 
 * 118.00 to 135.975 Mhz is used for pilots to talk to Air-traffic Controllers or other aircraft.
 
-* 108.00 Mhz to 117.95 Mhz is used by VHF omni-directional range (VOR) ground-based navigation systems.
+* 108.00 Mhz to 117.95 Mhz is used by VHF omni-directional range (VOR) ground-based navigation system and the localiser of the Instrument Landing System (ILS).
 
-* 329.15 Mhz to 335.00 Mhz is used by the Instrument Landing System to guide pilots down to the runway in low visibility.
+* 329.15 Mhz to 335.00 Mhz is used by the glideslope of the ILS.
 
 The KX-155 is a very common radio used in small General Aviation planes for the past 3 decades.
 
@@ -45,7 +45,7 @@ As you can see, the has quite a bit of depth. Its dimensions are 15.875 x 5.207 
 
 {{< imgdisplay src="images/kx155-rear.jpg" width="600" >}}
 
-It seems there are 2 sets of header pins and 3 BNC connectors to connect to 3 antennas to serve the functions of Communication, VOR and Glideslope.
+It seems there are 2 sets of header pins and 3 BNC connectors to connect to 3 antennas to serve the functions of Communication, Nav and Glideslope.
 
 ## Operating the radio
 
@@ -115,7 +115,7 @@ The chip's silkscreen logo and text writes "Motorola LSC87731CP". Googling does 
 
 {{< imgdisplay src="images/kx155-cpu-explanation.jpg" width="600" >}}
 
-More jargon. But at least I got an idea of the details behind this chip. Given the small amount of ROM, this chip should be classified as a microcontroller instead..
+More jargon. But at least I got an idea of the details behind this chip. Given the small amount of ROM, this chip should be classified as a microcontroller instead...
 
 ## Display
 
@@ -148,7 +148,7 @@ However there are many digits in the display driven by only 2x drivers.
 
 To address this limitation, I found the answer in the schematic. The digit cathodes are multiplexed to the 2x DS8884AN drivers.
 
-The common anode of all segments of each individual digit is then controlled by a separate multiplex counter (I101 and I102 on bottom left). Basically the digits are connected in parallel to the DS8884AN drivers, but each digit selectively enabled by another chip.
+The common anode of all segments of each individual digit is then controlled by a separate multiplex counter (I101 and I102 on bottom left). Basically the digits are all connected in parallel to the DS8884AN drivers, but each digit is selectively enabled by another chip.
 
 Consulting the BOM in the maintenance manual says this other chip is a Harris CD4022BFX.
 
@@ -198,7 +198,7 @@ There are several stages of amplification, some filters and a Transmit/Receiver 
 
 {{< imgdisplay src="images/kx155-comm-rx.jpg" width="600" >}}
 
-According to the block diagram, it seems the input signal is filtered, shifted to a 11.4Mhz Intermediate Frequency as the subsequent circuitry can more easily handle a lower frequency.
+According to the block diagram, it seems the input signal is filtered, shifted to a 11.4Mhz Intermediate Frequency (IF) as the subsequent circuitry can more easily handle a lower frequency.
 
 Since the received signal is very weak at this point, 2 stages of amplification are required before it can be utilised.
 
@@ -212,7 +212,7 @@ These 4 11.4Mhz crystals are connected in series which I have not seen in any de
 
 According to a reader, this design is called a [crystal ladder filter](https://en.wikipedia.org/wiki/Crystal_filter). In the block diagram, this is referred to as "8 Pole Xtal Filter 11.4Mhz".
 
-The incoming signals from the Mixer have already converted the input to 11.4Mhz IF. The crystal ladder filter operates as a bandpass filter that attenuates all other frequencies except those close to 11.4Mhz.
+The incoming signals fed into the Mixer have already been converted to 11.4Mhz IF. The crystal ladder filter operates as a bandpass filter that attenuates all other frequencies except those close to 11.4Mhz.
 
 {{< imgdisplay src="images/kx155-mc1350p.jpg" width="600" >}}
 
@@ -226,16 +226,8 @@ The date code says 1986. This gives a rough indication of when this radio was pr
 
 This radio is truly a complex device. I did not have time to look into the NAV and glideslope features. Not being trained as an RF and electrical engineer, everything feels way over my head at this point.
 
-If I did not have access to the Maintenance manuals, I'll be even more clueless to the design.Even so, knowing the component part numbers are insufficient as some were obsolete before the internet era making their datasheets are hard to locate.
+If I did not have access to the Maintenance manuals, I'll be even more clueless to the design .Even so, knowing the component part numbers is insufficient as some were obsolete before the internet era making their datasheets are hard to locate.
 
 As a private pilot who has been using these radios for years, I have taken their simplicity of operation for granted. The amount of engineering effort to produce these radios is staggering. Much more so for something that was designed to be so compact >30 years ago!
 
 I have definitely gained a greater appreciation of the avionics systems. I truly wonder, how modern avionics systems look like in their insides today?
-
-
-
-
-
-
-
-
