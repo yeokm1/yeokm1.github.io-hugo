@@ -23,7 +23,7 @@ After interacting with more than a dozen people, I realised most of the question
 11. [Is flying really that hard? I've been playing Microsoft Flight Simulator all my life. I have flown simulated Cessnas, Boeing 747s and even engaged in dogfights with F-16s.](#q11)
 12. [Can I learn a bit locally say at Seletar Flying Club then go to the US to continue so I don't have to spend a long time there?](#q12)
 13. [Can I convert an FAA (or any other) PPL to CAAS PPL?](#q13)
-14. [I have more questions. Who can I ask for more info or a second opinion?](#q14)
+14. [If I want to learn a CAAS PPL locally, what should I do?](#q14)
 
 <!--more-->
 
@@ -189,13 +189,9 @@ Once you submit all relevant documents to CAAS including your logbook, the proce
 
 I've not personally done this ^^^ but that was what the CAAS officer explained to me.
 
-## 14\. I have more questions. Who can I ask for more info or a second opinion? {#q14}
+## 14\. If I want to learn a CAAS PPL locally, what should I do? {#q14}
 
-I have 2 great parties to suggest:
-
-1. If you want the local CAAS PPL option, you can contact the club I'm in Seletar Flying Club. Head to their [website](http://www.seletar-flying-club.org/) or drop them an email at seletarflyingclub@gmail.com. A friendly instructor or club representative will be in touch to answer any queries you may have.
-
-2. A friend of mine Ray is a very qualified pilot with Instrument, Commercial Multi-engine ratings, Advanced and Instrument Ground Instructor. She has learned from a variety of flight schools so she has a wide perspective. She also runs a Facebook Group [Subtle Asian Flight Training](https://www.facebook.com/groups/566104407663832/) and a [Youtube channel](https://www.youtube.com/channel/UCNUpepDcbcfg6V6zRsCwkZg). Check them out for a very honest take on flight training through an Asian perspective. You can also email seentheray@gmail.com. 
+You can contact the club I'm in Seletar Flying Club. Head to their [website](http://www.seletar-flying-club.org/) or drop them an email at seletarflyingclub@gmail.com. A club representative will be in touch to answer any queries you may have.
 
 # FAQ I pose to people
 

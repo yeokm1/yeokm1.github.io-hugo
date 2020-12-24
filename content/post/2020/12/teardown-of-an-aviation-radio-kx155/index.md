@@ -226,7 +226,7 @@ The date code says 1986. This gives a rough indication of when this radio was pr
 
 This radio is truly a complex device. I did not have time to look into the NAV and glideslope features. Not being trained as an RF and electrical engineer, everything feels way over my head at this point.
 
-If I did not have access to the Maintenance manuals, I'll be even more clueless to the design .Even so, knowing the component part numbers is insufficient as some were obsolete before the internet era making their datasheets are hard to locate.
+If I did not have access to the Maintenance manuals, I'll be even more clueless to the design. Even so, knowing the component part numbers is insufficient as some were obsolete before the internet era making their datasheets are hard to locate.
 
 As a private pilot who has been using these radios for years, I have taken their simplicity of operation for granted. The amount of engineering effort to produce these radios is staggering. Much more so for something that was designed to be so compact >30 years ago!
 
