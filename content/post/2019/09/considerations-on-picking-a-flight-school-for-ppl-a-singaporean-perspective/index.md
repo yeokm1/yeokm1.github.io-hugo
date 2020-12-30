@@ -24,6 +24,7 @@ After interacting with more than a dozen people, I realised most of the question
 12. [Can I learn a bit locally say at Seletar Flying Club then go to the US to continue so I don't have to spend a long time there?](#q12)
 13. [Can I convert an FAA (or any other) PPL to CAAS PPL?](#q13)
 14. [If I want to learn a CAAS PPL locally, what should I do?](#q14)
+15. [If I were to do it again, what will I have done?](#q15)
 
 <!--more-->
 
@@ -192,6 +193,14 @@ I've not personally done this ^^^ but that was what the CAAS officer explained t
 ## 14\. If I want to learn a CAAS PPL locally, what should I do? {#q14}
 
 You can contact the club I'm in Seletar Flying Club. Head to their [website](http://www.seletar-flying-club.org/) or drop them an email at seletarflyingclub@gmail.com. A club representative will be in touch to answer any queries you may have.
+
+## 15\. If I were to do it again, what will I have done? {#q15}
+
+Well with the hindsight of everything I have now, I may do things slightly differently.
+
+1. Take some initial ground school and practical lessons at Seletar Flying Club to pick up the fundamentals and assess my personal aptitude. Can even do up to first solo if money permits.
+2. Apply to a USA Part 141 flight school to get the I-20 form and M-1 visa but insist on a Part 61 program so the Singapore training hours can count and do without the hassle of stage checks. Alert them I'm in a hurry complete things.
+3. Head over and do the Part 61 Program.
 
 # FAQ I pose to people
 
