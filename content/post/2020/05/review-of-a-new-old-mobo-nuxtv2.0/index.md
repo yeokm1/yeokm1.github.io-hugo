@@ -110,7 +110,7 @@ Very rudimentary BIOS settings but this is still better than the original XT whi
 
 ## Software support
 
-Since the main CPU is Intel 8088-class, only DOS and early Windows are supported. Here I used DOS 6.22 which is the latest standalone version of DOS from Microsoft.
+Since the main CPU is Intel 8088-class, only DOS, early Windows and other operating systems from that era are supported. Here I used DOS 6.22 which is the latest standalone version of DOS from Microsoft.
 
 {{< imgdisplay src="images/nuxt-postboot.jpg" width="600" >}}
 
