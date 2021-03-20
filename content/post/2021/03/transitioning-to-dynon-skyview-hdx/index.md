@@ -100,15 +100,15 @@ SFC requires pilots to have a few hours of training time with an instructor befo
 
 For my glass-cockpit training, I had highly-qualified flight instructor Saleeh teaching me how to use this system.
 
-### Initial Fuel sensor calibration
+### Initial Fuel computer value confirmation
 
-Having fuel level sensors in the fuel tanks does not obviate the need of manual measurement of the fuel in the tanks.
-
-Upon a cold-boot of the Skyview, this window will show up:
+Upon a cold-boot of the Skyview, this window may show up:
 
 {{< imgdisplay src="images/dynon-fuel-quantity.jpg" width="500" >}}
 
-The pilot is prompted to provide the precise fuel that is measured in the tank with a dipstick to calibrate the sensors.
+This is to reconfirm the fuel computer's assumption and fuel sender's measurement values. These values have to correlate with the pilot's physical inspection of the fuel tanks with a dipstick.
+
+The fuel senders are more well-calibrated and is in theory much better than the dipstick. However any significant deviations between the two could indicate a problem with the fuel sender and alert the pilot to a possible sensor malfunction.
 
 ### Weight and balance (W&B)
 
@@ -120,7 +120,7 @@ The Skyview has a handy W&B calculator available in the system to compute W&B ba
 
 Here Saleeh is teaching me how to use this calculator.
 
-Before this, W&B have to be computed manually with spreadsheets before the flight which may be not be fully precise especially with assumed fuel load amounts and passenger quantities.
+Before this, W&B has to be computed manually with spreadsheets before the flight which may be not be fully precise especially with assumed fuel load amounts and passenger quantities.
 
 ### Autopilot
 
