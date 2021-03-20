@@ -68,7 +68,7 @@ This new radio system has an internal database of common airport frequencies. Wi
 
 The previous radio Bendix King KX-155 is an extremely basic unit which has to be manually tuned by the pilot to the correct frequency. This longer manual step can take the pilot's focus away from other tasks.
 
-The plane now comes with [Automatic Dependent Surveillance–Broadcast (ADS–B)](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) transceiver to both broadcast the plane's position and receive ADS-B signals from other aircraft. This improves the situation awareness of everyone as the pilot no longer has to solely rely on ATC to detect the presence of nearby ADS-B aircraft.
+The plane now comes with [Automatic Dependent Surveillance–Broadcast (ADS–B)](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) transceiver to both broadcast the plane's position and receive ADS-B signals from other aircraft. This improves the situational awareness of everyone as the pilot no longer has to solely rely on ATC to detect the presence of nearby ADS-B aircraft.
 
 {{< imgdisplay src="images/dynon-gns430.jpg" width="500" >}}
 
