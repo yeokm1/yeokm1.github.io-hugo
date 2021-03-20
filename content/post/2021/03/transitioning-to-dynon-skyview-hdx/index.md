@@ -2,7 +2,7 @@
 title: Transitioning to Dynon Skyview HDX glass cockpit
 date: 2021-03-20
 categories: ["aviation"]
-images: ["/2021/03/transitioning-to-dynon-skyview-hdx-glass-cockpit/images/dynon-transition.jpg"]
+images: ["/2021/03/transitioning-to-dynon-skyview-hdx-glass-cockpit/images/dynon-cover-photo.jpg"]
 ---
 
 [Seletar Flying Club](http://www.seletar-flying-club.org/) (SFC) in collaboration with [MAJ Aviation](https://www.majaviation.com.sg/) recently upgraded one of its aircraft, a Cessna 172N (N5748E) to use a glass cockpit.
