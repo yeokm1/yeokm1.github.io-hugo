@@ -11,7 +11,7 @@ images: ["/2021/03/transitioning-to-dynon-skyview-hdx-glass-cockpit/images/dynon
 
 As an SFC member, I had the privilege to learn about this new system and fly on this upgraded aircraft.
 
-In this blog post, I'll like to share my learnings when transitioning to this system. Prior to this, the aircraft I have flown including those in training have used traditional steam-gauges.
+In this blog post, I'll like to share my learnings when transitioning to this system. Prior to this, the aircraft I have flown including those in training have all used traditional steam-gauges.
 
 But first, lets have some background info.
 
@@ -108,7 +108,7 @@ Upon a cold-boot of the Skyview, this window may show up:
 
 This is to reconfirm the fuel computer's assumption and fuel sender's measurement values. These values have to correlate with the pilot's physical inspection of the fuel tanks with a dipstick.
 
-The fuel senders are more well-calibrated and is in theory much better than the dipstick. However any significant deviations between the two could indicate a problem with the fuel sender and alert the pilot to a possible sensor malfunction.
+The fuel senders are more well-calibrated and are in theory much better than the dipstick. However any significant deviations between the two could indicate a problem with the fuel sender and alert the pilot to a possible sensor malfunction.
 
 ### Weight and balance (W&B)
 
@@ -124,9 +124,13 @@ Before this, W&B has to be computed manually with spreadsheets before the flight
 
 ### Autopilot
 
-I tried the autopilot for the first time in my life!
+The aircraft is installed with a 2-axis autopilot. Dynon servos meant for the autopilot have to be installed. They are connected to the same control cables used by the pilot control yoke to move the external flight surfaces.
+
+In an emergency if the autopilot does not want to disengage or servo motor failure, it's possible for the pilot to yank at the controls hard enough and break the servos which are designed to fail at a certain overriding force.
 
 {{< youtube2 id="uxZ5ewvqF_w" yt_start="1574">}}
+
+Here in this video of my training, I tried the autopilot for the first time in my life!
 
 * 26:14​ - Saleeh engages the Autopilot and flying without hands! I have to select heading first.
 * 28:30​ - This autopilot does not have rudder control so have to press rudder to keep the * aircraft coordinated.
