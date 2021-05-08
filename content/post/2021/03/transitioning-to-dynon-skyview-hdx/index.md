@@ -13,6 +13,8 @@ As an SFC member, I had the privilege to learn about this new system and fly on 
 
 In this blog post, I'll like to share my learnings when transitioning to this system. Prior to this, the aircraft I have flown including those in training have all used traditional steam-gauges.
 
+<!--more-->
+
 But first, lets have some background info.
 
 ## What is a glass cockpit aircraft?
