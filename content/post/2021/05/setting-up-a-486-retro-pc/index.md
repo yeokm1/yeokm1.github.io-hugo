@@ -313,6 +313,8 @@ DOS however does not do it hence leading to extra power consumption and heat gen
 
 {{< imgdisplay src="images/486-dosidle.jpg" width="500" >}}
 
+DOSIdle is a [Terminate-and-Stay-Resident program (TSR)](https://en.wikipedia.org/wiki/Terminate_and_stay_resident_program) that runs in the background to tell the CPU to halt when it is idling.
+
 You can download the latest version [DOSidle 2.51](https://www.vogons.org/viewtopic.php?f=24&t=43384#p438763)
 
 ### Windows drivers
@@ -367,6 +369,6 @@ The approach to setting up a 486 or any other retro PC in modern times will be s
 
 One has far greater access to online information plus the benefit of modern software and hardware tools.
 
-What has surprised me the most in this setting up journey is the continued community development of tools and drivers for an OS that is long considered obsolete. Without those tools, it would have been a greater challenge to do things the old-fashioned way.
+What has impressed me the most in this setting up journey is the continued community development of tools and drivers for an OS that is long considered obsolete. Without those tools, it would have been a greater challenge to do things the old-fashioned way.
 
 Even if tech-users of that era have lived through those times in person, I'm sure there is definitely something new to learn here as well. I have definitely learned so much that we have taken for granted in the setup of modern PCs.
