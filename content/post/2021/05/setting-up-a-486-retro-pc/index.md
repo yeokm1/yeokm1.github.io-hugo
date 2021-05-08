@@ -61,6 +61,8 @@ A HxC firmware is an improvement over the original Gotek firmware as it lets you
 
 No doubt, a Gotek drive is a modern replacement for old systems that still need native floppy drive access without the need to use rapidly ageing mechanical drives and floppy disks.
 
+In fact, I installed DOS 6.22 and WFW 3.11 through this floppy emulator by loading their install disk images through the USB drive. It saved me a lot of time and effort to write out the images to actual floppy disks.
+
 ## Internal Hardware
 
 Here is where the beef of this article starts to show. :)
