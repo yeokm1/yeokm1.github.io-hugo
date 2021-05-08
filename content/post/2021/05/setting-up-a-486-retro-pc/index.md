@@ -284,7 +284,7 @@ This SB16 is one such late-generation card and Creative supplied it's own tool c
 
 I chose to go with a more modern alternative called [Unisound written by JazeFox](https://www.vogons.org/viewtopic.php?t=72553). It is a Universal Sound Card initialisation tool for DOS-era sound cards.
 
-It's works extremely well and fast with minimal installation and configuration required. In fact, it is still actively developed as shown by it's 2021 copyright date!
+It's works extremely well and fast with minimal installation and configuration required. In fact, it is still actively developed as shown by its 2021 copyright date!
 
 #### Network Packet driver
 
