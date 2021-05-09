@@ -335,7 +335,7 @@ One just has to install the [TCP-IP package](https://winworldpc.com/product/micr
 
 {{< imgdisplay src="images/486-ie5-google.jpg" width="500" >}}
 
-If everything goes well, we can surf that web with Internet Explorer 5. Google still works!
+If everything goes well, we can surf the web with Internet Explorer 5. Google still works!
 
 #### Video drivers
 
