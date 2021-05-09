@@ -43,7 +43,8 @@ The front panel has a mix of old and new technologies. (Ignore the Core i5 stick
 A DVD-RW is kind of overkill for a system of this class but I don't have a more period-correct pure CD-ROM drive. All IDE CD/DVD drives are backward compatible so no problems with using a "new" drive on an older system.
 
 ### IDE HDD caddy
-I have this caddy lying around for years and this setup is perfect to be able to receive such an IDE caddy.
+
+I had this caddy lying around for years and this setup is perfect to be able to receive such an IDE caddy.
 
 ### 512MB Compactflash (CF)
 
@@ -53,15 +54,15 @@ A disk size of 512 MB was deliberately chosen as this BIOS cannot handle more th
 
 ### Floppy drives
 
-A period-correct 486 PC just has to have a 1.44MB 3.5" Floppy.
+A period-correct 486 PC needs to have a 1.44MB 3.5" Floppy.
 
 Additionally I also installed a Gotek Floppy Emulator with [HxC firmware](http://hxc2001.free.fr/floppy_drive_emulator/index.html#Download_HxCFirmwareForGotek). This Floppy Emulator can support up to 1000 floppy disk images being loaded into the USB drive. Selecting a particular image is as simple as pressing the external buttons to change the number selection.
 
-A HxC firmware is an improvement over the original Gotek firmware as it lets you put the floppy image files directly on the USB drive as a file instead of having to use a special Gotek software to manage the USB drive in it's own proprietary format.
+A HxC firmware is an improvement over the original Gotek firmware as it lets you put the floppy image files directly on the USB drive as a file instead of having to use a special Gotek software to manage the USB drive in its own proprietary format.
 
 No doubt, a Gotek drive is a modern replacement for old systems that still need native floppy drive access without the need to use rapidly ageing mechanical drives and floppy disks.
 
-In fact, I installed DOS 6.22 and WFW 3.11 through this floppy emulator by loading their install disk images through the USB drive. It saved me a lot of time and effort to write out the images to actual floppy disks.
+In fact, I installed DOS 6.22 and WFW 3.11 through this floppy emulator by loading their install disk images through the USB drive. It saved me a lot of time and effort instead of writing out the images to actual floppy disks.
 
 ## Internal Hardware
 
@@ -81,7 +82,7 @@ It has 256K of onboard L2 cache and uses a UM82C482 chipset.
 
 It has 1x 8-bit [ISA](https://en.wikipedia.org/wiki/Industry_Standard_Architecture) slot and 6x 16-bit ISA slots of which 3x can be used for [VESA Local Bus (VLB)](https://en.wikipedia.org/wiki/VESA_Local_Bus) slots. 
 
-VLB slots only exist for 486 motherboards and they offer faster performance to the aging ISA slots before the advent of the more industry-standard PCI.
+VLB slots exist mostly on 486 motherboards and they offer faster performance to the aging ISA slots before the advent of the more industry-standard PCI.
 
 ### Intel 486-DX2 CPU
 
@@ -107,9 +108,9 @@ Unlike modern highly-integrated motherboards, even basic IO and connectivity fea
 
 {{< imgdisplay src="images/486-vga-card.jpg" width="600" >}}
 
-Graphics is provided by a Cirrus Logic CL-GD5426 VLB card. This card is capable of up to 2MB of video RAM but only 1MB is populated. Cirrus Logic cards are known then for their low cost but still reasonable performance.
+Graphics is provided by a Cirrus Logic CL-GD5426 VLB which was donated to me together with the motherboard.
 
-This was also donated to me together with the motherboard.
+This card is capable of up to 2MB of video RAM but only 1MB is populated. Cirrus Logic cards are known then for their low cost but still reasonable performance.
 
 1MB of video RAM is pretty good for that era and allows resolutions of 800x600 or 1024x768 depending on colour depth.
 
@@ -123,7 +124,7 @@ The Sound Blaster 16 series of sound cards is one of the best known classics of 
 
 {{< imgdisplay src="images/486-sb16-opl3.jpg" width="500" >}}
 
-This CT2940 variant is one of the least-noisy of this series. This particular model has a genuine [Yamaha OPL3 chip (YMF289B) FM Synthesis chip](https://en.wikipedia.org/wiki/Yamaha_YMF262#Yamaha_YMF289) which will allow DOS gaming music tracks to sound great instead of the later models which use Creative Quadrature Modulaton (CQM) Synthesis which try to emulate the OPL3 chip. 
+This CT2940 variant is one of the least-noisy of this series. This particular model has a genuine [Yamaha OPL3 chip (YMF289B) FM Synthesis chip](https://en.wikipedia.org/wiki/Yamaha_YMF262#Yamaha_YMF289) which will allow DOS gaming music tracks to sound better instead of the later models which use Creative Quadrature Modulaton (CQM) Synthesis which try to (not always succesfully) emulate the OPL3 chip. 
 
 This card is Plug-n-Play and hence required software initialisation before it can be used.
 
@@ -241,7 +242,7 @@ After lots of trial-and-error with the hardware, the OS setup portion was relati
 
 {{< imgdisplay src="images/486-wfw311.jpg" width="600" >}}
 
-In this system I opted to install DOS 6.22 and Windows for Workgroups 3.11 which is period-correct for such a system. A 486 system can technically run Windows 95 or 98 but it would be much slower.
+In this system I opted to install DOS 6.22 and Windows for Workgroups 3.11 which is optimal for such a system. A 486 system can technically run Windows 95 or 98 but it would be much slower.
 
 ### DOS Multi-configuration
 
@@ -338,7 +339,7 @@ One just has to install the [TCP-IP package](https://winworldpc.com/product/micr
 
 A driver from Cirrus Logic has to be installed in order to attain higher resolutions over the default VGA 640x480.
 
-I could not get any resolution at 1024x768 to work as the LCD monitor I used seems to have problems with the refresh rate so I'm stuck at 800x600.
+I could not get the 1024x768 resolution to work as the LCD monitor I used seems to have problems with the refresh rate so I'm stuck at 800x600.
 
 #### Sound
 
@@ -358,7 +359,7 @@ I guess "High Performance System Board" is good? :)
 
 {{< imgdisplay src="images/486-cf-benchmark.jpg" width="500" >}}
 
-The data transfer speed of 1749.5K/s is certainly due to the disk controller and ISA interface being the bottleneck as the modern CF card is capable of much faster speeds.
+The data transfer speed of 1749.5K/s is slower than I expected but definitely good for that time. Several obvious factors here, disk controller, ISA interface, improper VLB configuration and even the CF card.
 
 The ultra-low seek time is where the solid-state nature of the CF card really shines!
 
