@@ -266,7 +266,7 @@ Something as basic as a Mouse needs a driver??? This is DOS for you.
 
 {{< imgdisplay src="images/486-mouse-driver.jpg" width="500" >}}
 
-[CuteMouse](http://cutemouse.sourceforge.net/) is a relatively modern DOS mouse driver that was last updated in 2008. It's main benefit is its low memory footprint compared to other drivers
+[CuteMouse](http://cutemouse.sourceforge.net/) is a relatively modern DOS mouse driver that was last updated in 2008. Its main benefit is its low memory footprint compared to other drivers.
 
 #### CD-ROM
 
@@ -332,6 +332,10 @@ To prevent conflicts, the DOS Packet driver is not loaded if I opt to start Wind
 {{< imgdisplay src="images/486-wfw311-network.jpg" width="500" >}}
 
 One just has to install the [TCP-IP package](https://winworldpc.com/product/microsoft-tcp-ip-32/tcpip-32-3-11b) for WFW311.
+
+{{< imgdisplay src="images/486-ie5-google.jpg" width="500" >}}
+
+If everything goes well, we can surf that web with Internet Explorer 5. Google still works!
 
 #### Video drivers
 
