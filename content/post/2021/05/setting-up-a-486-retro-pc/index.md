@@ -221,7 +221,7 @@ This converter requires a 5V power source from a USB Host. As this system obviou
 
 ## BIOS
 
-The BIOS is based on the typical American Megatrends (AMI) of that era. Even modern computer BIOSes are still based on AMI.
+The BIOS is from American Megatrends (AMI) which is common of that era. Even on many modern computers today, the UEFI (BIOS replacement) are also from AMI.
 
 {{< imgdisplay src="images/486-bios-system-summary.jpg" width="600" >}}
 
@@ -249,10 +249,9 @@ DOS 6 and up allows the user to select from a set of custom startup configuratio
 
 {{< imgdisplay src="images/486-dos-menu.jpg" width="500" >}}
 
-Here, the system will startup differently depending on whether I want DOS to be loaded or Windows 3.1.
+Here, the system will start up differently depending on whether I want only DOS to be loaded or Windows 3.1.
 
 For DOS boot, extra drivers like Mouse and Network Packet drivers will be loaded.
-Since 
 
 For more details about the `config.sys` and `autoexec.bat` files used, I have [uploaded them on Github](https://github.com/yeokm1/retro-configs/tree/master/custom-486-pc).
 
@@ -280,7 +279,7 @@ An alternative is [VIDE-CDD.SYS from Acer](https://www.vogonswiki.com/index.php/
 
 Late-generation ISA cards support a feature (now retroactively) called [Legacy Plug-and-Play (PnP)](https://en.wikipedia.org/wiki/Legacy_Plug_and_Play) to automatically assign system resources to it. Before Legacy PnP, resources like addresses and interrupts have to manually configured on each card via jumper settings.
 
-This SB16 is one such late-generation card and Creative supplied it's own tool called Creative PnP Configuration Manager that is still [available on their website](https://support.creative.com/Products/ProductDetails.aspx?prodID=1842&prodName=Sound%20Blaster%2016).
+This SB16 is one such late-generation card and Creative supplied its own tool called Creative PnP Configuration Manager (CTCM) that is still [available on their website](https://support.creative.com/Products/ProductDetails.aspx?prodID=1842&prodName=Sound%20Blaster%2016).
 
 {{< imgdisplay src="images/486-unisound.jpg" width="500" >}}
 
@@ -321,7 +320,7 @@ You can download the latest version [DOSidle 2.51](https://www.vogons.org/viewto
 
 Windows 3.1 is relatively easier to setup once the DOS foundation is firmly established.
 
-Only a few more drivers has to be added.
+Only a few more drivers have to be added.
 
 #### Networking
 
@@ -337,7 +336,7 @@ One just has to install the [TCP-IP package](https://winworldpc.com/product/micr
 
 {{< imgdisplay src="images/486-wfw311-graphics.jpg" width="500" >}}
 
-Extra drivers from Cirrus Logic has to be installed in order to attain higher resolutions over the default VGA 640x480.
+A driver from Cirrus Logic has to be installed in order to attain higher resolutions over the default VGA 640x480.
 
 I could not get any resolution at 1024x768 to work as the LCD monitor I used seems to have problems with the refresh rate so I'm stuck at 800x600.
 
@@ -345,7 +344,7 @@ I could not get any resolution at 1024x768 to work as the LCD monitor I used see
 
 {{< imgdisplay src="images/486-wfw311-sound.jpg" width="500" >}}
 
-Creative's Windows 3.1 drivers has to be installed in order to use the SB16 in Windows.
+Creative's Windows 3.1 driver has to be installed in order to use the SB16 in Windows.
 
 After that, I disabled the Creative's DOS configuration (CTCU and CTCM) utilities in both `config.sys` and `autoexec.bat` from running as it's sufficient to just use Unisound.
 
