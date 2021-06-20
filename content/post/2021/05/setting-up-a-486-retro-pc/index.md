@@ -124,7 +124,7 @@ The Sound Blaster 16 series of sound cards is one of the best known classics of 
 
 {{< imgdisplay src="images/486-sb16-opl3.jpg" width="500" >}}
 
-This CT2940 variant is one of the least-noisy of this series. This particular model has a genuine [Yamaha OPL3 chip (YMF289B) FM Synthesis chip](https://en.wikipedia.org/wiki/Yamaha_YMF262#Yamaha_YMF289) which will allow DOS gaming music tracks to sound better instead of the later models which use Creative Quadrature Modulaton (CQM) Synthesis which try to (not always succesfully) emulate the OPL3 chip. 
+This CT2940 variant is one of the least-noisy of this series. This particular model has a genuine [Yamaha OPL3 chip (YMF289B) FM Synthesis chip](https://en.wikipedia.org/wiki/Yamaha_YMF262#Yamaha_YMF289) which will allow DOS gaming music tracks to sound better instead of the later models which use Creative Quadrature Modulaton (CQM) Synthesis which try to (not always successfully) emulate the OPL3 chip. 
 
 This card is Plug-n-Play and hence required software initialisation before it can be used.
 
