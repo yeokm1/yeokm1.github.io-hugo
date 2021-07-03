@@ -176,7 +176,7 @@ With a screw driver, I proceeded to remove the top cover.
 
 The RF portion is clearly in a separate shielded section away from the main PCB. The plenty of through-hole components is also another indication of the age of this design.
 
-## Microcontroller
+### Microcontroller
 
 {{< imgdisplay src="images/dme890-cpu.jpg" width="700" >}}
 
@@ -208,7 +208,7 @@ Today, the usage of programmable microcontrollers in electronics products is pre
 
 However I guess at that time, usage of such chips is still a relatively new implementation that necessitates that Narco write in the maintenance manual not to quickly blame the MCU when things are not working.
 
-## Display
+### Display
 
 Just like my KX-155 teardown, the display portion intrigued me. 
 
@@ -246,7 +246,7 @@ The manual's BOM page on which components on the PCB corresponds to the schemati
 
 The method employed by DME-890 to programmatically select each digit directly is different from how the KX155 does it where the MCU advances the digit selection based on a transition of a clock signal to the multiplexer.
 
-## RF Section
+### RF Section
 
 Now comes the most complex section. The manual goes into tremendous and oftentimes cryptic details especially for someone like me who is not in the avionics and RF industry. 
 
@@ -256,7 +256,7 @@ Therefore I shall only mention the transmit and receive portions only. There is 
 
 The top portion is the receiver portion while the bottom is the transmitter + diplexer portion. The diplexer allows the antenna to be selected between the transmitter or receiver depending on the current state of the device.
 
-## Transmitter
+### Transmitter
 
 I first started out by consulting the provided block diagram.
 
@@ -274,7 +274,7 @@ The MCU-controlled RF synthesizer provides a +3 dbm signal from 520.5 to 575 Mhz
 
 * Transmitter: Frequency doubler doubles the 550 Mhz input to 1100 Mhz, amplified further than sent out through the diplexer which selects the antenna function at that time.
 
-## Receiver
+### Receiver
 
 {{< imgdisplay src="images/dme890-receiver-block.jpg" width="600" >}}
 
@@ -310,8 +310,10 @@ This is making use of the property that the received frequency is exactly 63 Mhz
 
 * U313 (not in photo) is an AND gate to allow the decoder to give feedback to the AGC on whether to act on certain signal based on the received pulse spacing.
 
-# Final Words
+## Final Words
 
-Quite a lot of thought went into a DME infrastructure as a whole. Something as 
+Quite a lot of thought went into a DME infrastructure as a whole. Something supposedly simple to use the DME actually has a lot going on behind the scenes to make it work.
 
-The frequencies that are chosen in the system are clearly not selected on a whim. The entire system design was designed with the avionics on the aircraft in mind.
+The frequencies that are chosen in the system are clearly not selected on a whim. The entire system design was designed with the avionics implementation on the aircraft in mind too.
+
+Now my next curiosity, how does a contemporary implementation of an avionics DME system work with the benefit of faster processors and more integrated surface mount technology?
