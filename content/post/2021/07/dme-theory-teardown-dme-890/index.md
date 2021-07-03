@@ -270,9 +270,9 @@ Major components on the board that correspond to the the block diagram for refer
 
 The MCU-controlled RF synthesizer provides a +3 dbm signal from 520.5 to 575 Mhz which is half the transmitter frequency range.
 
-* Exciter: Using a series of continuous-wave amplifiers and a final pulse amplifier, 550Mhz of pulsed RF power is sent to the transmitter section
+* Exciter: Using a series of continuous-wave amplifiers and a final pulse amplifier, pulsed RF power at half interrogation frequency (520.5 to 575 Mhz) is sent to the transmitter section.
 
-* Transmitter: Frequency doubler doubles the 550 Mhz input to 1100 Mhz, amplified further than sent out through the diplexer which selects the antenna function at that time.
+* Transmitter: Frequency doubler doubles the 520.5 to 575 Mhz input to the interrogation frequency, amplified further than sent out through the diplexer which selects the antenna function at that time.
 
 ### Receiver
 
@@ -315,5 +315,7 @@ This is making use of the property that the received frequency is exactly 63 Mhz
 Quite a lot of thought went into a DME infrastructure as a whole. Something supposedly simple to use the DME actually has a lot going on behind the scenes to make it work.
 
 The frequencies that are chosen in the system are clearly not selected on a whim. The entire system design was designed with the avionics implementation on the aircraft in mind too.
+
+It's clear also RF and avionics design work is an extremely complex task. Such a product definitely took a non-trivial amount of time and skill-sets of a team of people to develop. Furthermore this was developed in the late 1970s without the benefit of modern tools and easily accessible knowledge of today.
 
 Now my next curiosity, how does a contemporary implementation of an avionics DME system work with the benefit of faster processors and more integrated surface mount technology?
