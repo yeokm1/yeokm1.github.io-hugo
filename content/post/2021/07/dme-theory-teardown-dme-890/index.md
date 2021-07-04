@@ -298,7 +298,7 @@ This is making use of the property that the received frequency is exactly 63 Mhz
 
 * Q706 - Q710: Amplifies the 63Mhz IF signal as the inductor output is quite weak at this point
 
-* Video detector section: R702 and C702 form a RC-circuit. Together with the CR701 diode, servers to detect the 3.5us pulse pair. I'm unsure why they call it "video" though. Quoting the manual:
+* Video detector section: R702 and C702 form a RC-circuit. Together with the CR701 diode, serves to detect the 3.5us pulse pair. I'm unsure why they call it "video" though. Quoting the manual:
 
 {{< imgdisplay src="images/dme890-video-detector-description.jpg" width="600" >}}
 
