@@ -34,7 +34,7 @@ Source: https://www.boldmethod.com/learn-to-fly/systems/understanding-dme-on-ins
 As planes operate in the 3D world, the distance is actually the slant range. Therefore the higher the altitude of the aircraft, the less accurate the slant range distance can be used to approximate the ground distance.
 
 [Boldmethod](https://www.boldmethod.com/learn-to-fly/systems/understanding-dme-on-instrument-approaches-and-vfr/) has this to say:
->So how much DME slant range error is there for most aircraft operations? The rule-of-them is that if you're at least 1NM away from the station for every 1,000' AGL, slant range error is negligible.
+>So how much DME slant range error is there for most aircraft operations? The rule-of-thumb is that if you're at least 1NM away from the station for every 1,000' AGL, slant range error is negligible.
 >
 > ...
 >
@@ -128,7 +128,7 @@ Using the fixed VOR-DME frequency pairing in the previous section, we can derive
 | TNG          | Tengah       | TACAN        | 113.90        | 1110                   | 1173           |
 | PLA          | Paya Lebar   | TACAN        | 116.30        | 1134                   | 1197           |
 
-Therefore when the pilot wants to configure the onboard DME system, he does not actually use the Interrogation/Reply frequencies directly. He uses the VOR frequencies published on the chart to enter into the DME system which will then automatically derive the correct DME frequencies to use.
+Therefore when the pilot wants to configure the Narco DME-890, he does not actually use the Interrogation/Reply frequencies directly. He uses the VOR frequencies published on the chart to enter into the DME system which will then automatically derive the correct DME frequencies to use.
 
 For the TACAN stations, although the "VOR frequencies" are listed, a civilian VOR avionics equipment cannot get any bearing information from it. The dummy VOR frequency is for the DME system to determine the paired DME frequency to interact with the TACAN system.
 
@@ -160,7 +160,7 @@ Translating to the actual physical pinout.
 
 ## The Teardown
 
-Let's come to the fun part, analysing the key components
+Let's come to the fun part, analysing the key components.
 
 ### System Architecture
 
@@ -256,7 +256,7 @@ Therefore I shall only mention the transmit and receive portions only. There is 
 
 The top portion is the receiver portion while the bottom is the transmitter + diplexer portion. The diplexer allows the antenna to be selected between the transmitter or receiver depending on the current state of the device.
 
-### Transmitter
+#### Transmitter
 
 I first started out by consulting the provided block diagram.
 
@@ -274,7 +274,7 @@ The MCU-controlled RF synthesizer provides a +3 dbm signal from 520.5 to 575 Mhz
 
 * Transmitter: Frequency doubler doubles the 520.5 to 575 Mhz input to the interrogation frequency, amplified further than sent out through the diplexer which selects the antenna function at that time.
 
-### Receiver
+#### Receiver
 
 {{< imgdisplay src="images/dme890-receiver-block.jpg" width="600" >}}
 
@@ -316,6 +316,8 @@ Quite a lot of thought went into a DME infrastructure as a whole. Something supp
 
 The frequencies that are chosen in the system are clearly not selected on a whim. The entire system was designed with the avionics implementation on the aircraft in mind too.
 
-It's clear that RF and avionics design work is an extremely complex task. Such a product definitely took a non-trivial amount of time and skill-sets of a team of people to develop. Furthermore, this was developed in the late 1970s without the benefit of modern tools and easily accessible knowledge of today.
+It's clear that RF and avionics design work is an extremely complex task. The manufacturer has to design a product that fits the functional requirements, conform to rigorous aviation certification standards and also be robust enough to work in the rough environment of the plane under heavy vibrations and heat.
+
+Such a product definitely took a non-trivial amount of time and skill-sets of a team of people to develop. Furthermore, this was developed in the late 1970s without the benefit of modern tools and easily accessible knowledge of today.
 
 Now my next curiosity, how does a contemporary implementation of an avionics DME system work with the benefit of better tech like faster processors and more integrated surface mount technology?
