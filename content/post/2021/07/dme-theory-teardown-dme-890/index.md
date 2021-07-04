@@ -90,7 +90,7 @@ Observe in the mapping table that Narco DME-890 does not support Interrogation f
 
 The process goes like this:
 
-1. Plane sends one pulse pair at interrogation frequency to the DME.
+1. Plane sends one pulse pair at interrogation frequency to the DME station.
 2. DME station receives the pulse pair.
 3. DME station waits for a fixed 50us delay starting from receiving the first pulse.
 3. DME station replies with its pulse pair at Reply Frequency.
