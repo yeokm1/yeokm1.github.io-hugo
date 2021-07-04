@@ -312,7 +312,7 @@ This is making use of the property that the received frequency is exactly 63 Mhz
 
 ## Final Words
 
-Quite a lot of thought went into a DME infrastructure as a whole. Something supposedly simple to use the DME actually has a lot going on behind the scenes to make it work.
+Quite a lot of thought went into a DME infrastructure as a whole. Something supposedly simple to use as the DME actually has a lot going on behind the scenes to make it work.
 
 The frequencies that are chosen in the system are clearly not selected on a whim. The entire system was designed with the avionics implementation on the aircraft in mind too.
 
