@@ -15,13 +15,13 @@ Before commencing a teardown, I have to go through some theoretical concepts of 
 
 DME stands for "Distance Measuring Equipment". As its name suggests, this instrument determines the distance between the aircraft and a ground station.
 
-It's [maintenance manual](http://www.mikeg.net/hobbies/aviation/avionics/combined/Narco%20DME-890%20Combined.pdf) which I found online has a a wealth of data on this. The date of this manual is December 1980 which shows that the device was designed more than 40 years ago!
+Its [maintenance manual](http://www.mikeg.net/hobbies/aviation/avionics/combined/Narco%20DME-890%20Combined.pdf) I found online has a a wealth of data on this. The date of this manual is December 1980 which shows that the device was designed more than 40 years ago!
 
 {{< imgdisplay src="images/dme890-operation.jpg" width="600" >}}
 
 If the above is too wordy for you, the basic idea is this:
 
-1. The aircraft transmits at a signal at an interrogation frequency specific to a certain ground station.
+1. The aircraft transmits a signal at an interrogation frequency specific to a certain ground station.
 2. The ground station will then reply to the aircraft after a certain known delay.
 3. Based on the time delay between the transmitted signal and received signal, the DME equipment can calculate how far the aircraft is from the ground station and display this information to the pilot.
 
@@ -84,7 +84,7 @@ The X and Y mode can be determined based on the hundredths place of the VOR freq
 >
 > Source: https://www.skyradar.com/blog/navaids-a-technical-introduction-into-architecture-and-signals-of-ilsdme-and-vor
 
-Observe in that table that Narco DME-890 does not support Interrogation frequencies lower than 1041 Mhz and Ground Reply frequencies lower than 978 Mhz. This is because below those frequencies, there is no VOR pairing for that DME frequency. The Narco DME-890 only allows setting of the VOR frequency in its front panel.
+Observe in the mapping table that Narco DME-890 does not support Interrogation frequencies lower than 1041 Mhz and Ground Reply frequencies lower than 978 Mhz. This is because below those DME frequencies, there are no VOR pairings for them. The Narco DME-890 only allows setting of the VOR frequency in its front panel.
 
 ### DME Interrogation Process
 
@@ -92,8 +92,8 @@ The process goes like this:
 
 1. Plane sends one pulse pair at interrogation frequency to the DME.
 2. DME station receives the pulse pair.
-3. DME station waits for a fixed 50us delay
-3. DME station replies with its pulse pair at Reply Frequency after receiving the first pulse.
+3. DME station waits for a fixed 50us delay starting from receiving the first pulse.
+3. DME station replies with its pulse pair at Reply Frequency.
 
 This is a slide of a sample pulse pair.
 
@@ -101,7 +101,7 @@ This is a slide of a sample pulse pair.
 
 Source: http://iiast.com/documents/Lesson13BasicPrinciplesofDMEed.pdf
 
-Each of the pulse is 3.5us pulse width each. 
+Each of the pulses have a 3.5us pulse width. 
 
 For X mode, the pulse spacing will be 12us.
 For Y mode, the pulse spacing will be 30us.
@@ -112,9 +112,9 @@ In order to use a DME, co-located VOR and DME ground stations scattered around t
 
 VOR stations allows the pilot to get a bearing TO/FROM in reference with the station however it does not give distance. Therefore DME is a useful complement to the VOR as with the distance and bearing with respect to a known position of a ground station, the pilot can determine where the aircraft is.
 
-In Singapore's context, we have 3 VOR-DME stations in our territory as marked by the 3 large circles. 2 TACAN stations are available at Tengah and Paya Lebar airbases.
-
 {{< imgdisplay src="images/dme890-vor-dme-stations.jpg" width="700" >}}
+
+In Singapore's context, we have 3 VOR-DME stations in our territory as marked by the 3 large circles in the Foreflight screenshot. 2 TACAN stations are available at Tengah and Paya Lebar airbases.
 
 VOR frequencies are shown on the map. So what about their DME frequencies?
 
@@ -128,7 +128,7 @@ Using the fixed VOR-DME frequency pairing in the previous section, we can derive
 | TNG          | Tengah       | TACAN        | 113.90        | 1110                   | 1173           |
 | PLA          | Paya Lebar   | TACAN        | 116.30        | 1134                   | 1197           |
 
-Therefore when the pilot sets the frequency into the DME system, he does not actually use the Interrogation/Reply frequencies directly. He uses the VOR frequencies published on the chart to enter into the DME system which will then automatically derive the correct DME frequencies to use.
+Therefore when the pilot wants to configure the onboard DME system, he does not actually use the Interrogation/Reply frequencies directly. He uses the VOR frequencies published on the chart to enter into the DME system which will then automatically derive the correct DME frequencies to use.
 
 For the TACAN stations, although the "VOR frequencies" are listed, a civilian VOR avionics equipment cannot get any bearing information from it. The dummy VOR frequency is for the DME system to determine the paired DME frequency to interact with the TACAN system.
 
@@ -224,11 +224,11 @@ The very bright segments even in direct sunlight is also indicative of a gas dis
 
 {{< imgdisplay src="images/dme890-digit-segments.jpg" width="500" >}}
 
-In the manual, each digit is given it's own number when referred to in the rest of the text.
+In the manual, each digit is given its own number when referred to in the rest of the text.
 
 {{< imgdisplay src="images/dme890-describe-digit-selection.jpg" width="500" >}}
 
-The explanation of this alternate flickering is given in this section. Digits are refreshed in the sequence of 0, 3, 6, 1, 4, 7, 2, 5 instead of consecutively in order to avoid a possibly human detectable ripple effect. It's also clear that the gas discharge displays operate at voltages of -100VDC and +100VDC which is not possible for the MCU to directly handle.
+The explanation of this alternate flickering is given in this section. Digits are refreshed in the sequence of 0, 3, 6, 1, 4, 7, 2, 5 instead of a consecutive order to avoid a possibly human detectable ripple effect. It's also clear that the gas discharge displays operate at voltages of -100VDC and +100VDC which is not possible for the MCU to directly handle.
 
 {{< imgdisplay src="images/dme890-display-diagram.jpg" width="500" >}}
 
@@ -314,8 +314,8 @@ This is making use of the property that the received frequency is exactly 63 Mhz
 
 Quite a lot of thought went into a DME infrastructure as a whole. Something supposedly simple to use the DME actually has a lot going on behind the scenes to make it work.
 
-The frequencies that are chosen in the system are clearly not selected on a whim. The entire system design was designed with the avionics implementation on the aircraft in mind too.
+The frequencies that are chosen in the system are clearly not selected on a whim. The entire system was designed with the avionics implementation on the aircraft in mind too.
 
-It's clear also RF and avionics design work is an extremely complex task. Such a product definitely took a non-trivial amount of time and skill-sets of a team of people to develop. Furthermore this was developed in the late 1970s without the benefit of modern tools and easily accessible knowledge of today.
+It's clear that RF and avionics design work is an extremely complex task. Such a product definitely took a non-trivial amount of time and skill-sets of a team of people to develop. Furthermore, this was developed in the late 1970s without the benefit of modern tools and easily accessible knowledge of today.
 
-Now my next curiosity, how does a contemporary implementation of an avionics DME system work with the benefit of faster processors and more integrated surface mount technology?
+Now my next curiosity, how does a contemporary implementation of an avionics DME system work with the benefit of better tech like faster processors and more integrated surface mount technology?
