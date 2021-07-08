@@ -18,8 +18,6 @@ date: 2014-12-25T14:55:48+00:00
 
 浏览我的[Github 网站][2]来看我的外部项目. 个人LinkedIn页面在[这里][3]。
 
-如需要跟我联络，可发我一个电子邮件 yeokm1[在]gmail[点]com 。
-
 [1]: /2013/02/programmer-dvorak-layout/
 [2]: https://github.com/yeokm1
 [3]: https://www.linkedin.com/in/yeokhengmeng

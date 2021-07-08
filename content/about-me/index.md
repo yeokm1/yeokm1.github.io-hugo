@@ -18,13 +18,6 @@ Computer Science graduate from NUS School of Computing now working as a Software
 
 Checkout my [Github account][2] for the stuff I have hacked away. My LinkedIn page is [here][3].
 
-This is not actually my first blog. I have deprecated two of my older blogs.
-
-  1. [Informal blog][4]
-  2. [Serious blog][5]
-
-I can be reached at yeokm1[at]gmail[dot]com
-
  [1]: /2013/02/programmer-dvorak-layout/
  [2]: https://github.com/yeokm1
  [3]: https://www.linkedin.com/in/yeokhengmeng
