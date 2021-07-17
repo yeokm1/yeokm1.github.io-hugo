@@ -136,13 +136,13 @@ DME is like a reversing of roles compared to a transponder system where instead 
 
 ## Operating the DME-890
 
-I don't have an image of a working DME-890 due to my camera's frame rate (or exposure?) not being high enough to capture the display in use. So I shall grab one online.
+{{< imgdisplay src="images/dme890-in-operation.jpg" width="500" >}}
 
-{{< imgdisplay src="images/dme890-ebay-image.jpg" width="500" >}}
-
-Source: https://www.ebay.com/itm/274640701033
+Source: Seletar Flying Club
 
 The DME-890 is pretty straightforward to use. The pilot sets the "VOR frequency" into the system by rotating the knob on the right. The slant range is then displayed to the pilot on the left.
+
+In this example, the DME-890 is tuned to 116.30 Mhz which is the pseodo-VOR frequency for the Paya Lebar TACAN. The distance of 5.1 NM is displayed to the pilot.
 
 ## Test Powering the DME-890 from outside the aircraft
 
